@@ -1,161 +1,173 @@
-- name: Genetic and molecular mechanisms of treatment resistance in DLBCL
-  description: >
-    Non-Hodgkin lymphomas (NHL) represent the sixth most commonly diagnosed
-    type of cancer in Canada with diffuse large B-cell lymphoma (DLBCL) being the most prevalent.
-    DLBCL patients exhibit variable responses to available therapies such
-    as R-CHOP. Some biomarkers beginning to enter clinical trials rely on
-    gene expression signatures to identify high-risk cases.
-    For example, DLBCL comprises two cell-of-origin (COO) subgroups with
-    activated B-cell (ABC) cases typically having worse prognosis than
-    germinal centre B-cell (GCB) cases.
-    Therapeutics that exploit molecular features unique to each subgroup
-    are being actively pursued but up-front identification of patients
-    unlikely to achieve a durable response remains a challenge.
-    Although existing methods can identify specific prognostic gene
-    expression features, these capture only some of the clinical
-    heterogeneity and require tumour RNA, which is not always available.
-    Using comprehensive genomic analyses and by integrating mutation and
-    expression data from over 2000 DLBCL tumours, we seek novel molecular
-    features that are associated with treatment resistance in DLBCL.
-    The ultimate goal of this work is to develop new predictive and
-    prognostic biomarkers and identify new therapeutic targets for
-    treatment-resistant DLBCLs.
-  funding: Terry Fox Research Institute
-  collaborators: Christian Steidl, David Scott, Nathalie Johnson
-  assignees: Chris Rushton, Laura Hilton, Jeffrey Tang, Miguel Alcaide, Aixiang Jiang
-  photo: projects/dhitsig.png
+- name: SLIDE- Significant Latent factor Interaction Discovery and Exploration across biological domains
+  collaborators: Javad Rahimikollu, Hanxi Xiao, AnnaElaine Rosengart, Aaron B. I. Rosen, Tracy Tabib, Paul M. Zdinak, Kun He, Xin Bing, Florentina Bunea, Marten Wegkamp, Amanda C. Poholek, Alok V. Joglekar, Robert A. Lafyatis, Jishnu Das*
 
-- name: The role of the Fc Gamma receptor locus in resistance to R-CHOP
-  description: >
-    Through genomic characterization of DLBCL we identified somatic amplification
-    of the Fc gamma receptor 2B gene (FCGR2B) as a feature in ~5% of cases. We also 
-    found the expression of FCGR2B (by RNA-seq) was prognostic in multiple DLBCL cohorts. 
-    FCGR2B contributes to treatment resistance by promoting the internalization of the 
-    rituximab antibody by malignant cells, allowing them to evade immune detection. 
-    It may therefore serve as an important biomarker to identify high-risk patients and 
-    stratify them to recieve newer immunotherapies that can mitigate the effects of high 
-    FCGR2B expression. Understanding the genetic mechanisms that drive FCGR2B amplification 
-    and overexpression has been complicated by the segmental duplication that affects 
-    the FCGR locus, which makes it difficult to accurately align short reads to FCGR2B 
-    or its closely-related paralog FCGR2C. We have been employing long-read Oxford 
-    Nanopore sequencing and Bionano optical mapping to accurately characterize the 
-    structural and single nucleotide variation within the locus.
-  funding: ASH Foundation
-  collaborators: David Scott
-  assignees: Laura Hilton, Miguel Alcaide, Jack Hillman
-  photo: projects/FCGR2B_cropped.png
+- name: From bench to bedside via bytes- multi-omic immunoprofiling and integration using machine learning and network approaches
+  collaborators: Hanxi Xiao, Aaron Rosen, Prabal Chhibbar, Lenny Moise*, Jishnu Das*
 
-- name: Resolving clonal structure and evolution patterns in DLBCL
-  description: >
-    Diffuse Large B-Cell Lymphoma is a genetically heterogeneous form of cancer, 
-    with different cells in the tumour acquiring different mutations. This 
-    intra-tumour heterogeneity can have profound effects on treatment; if a clonal 
-    subpopulations is resistant to treatment, it will reform the tumour following 
-    treatment, causing the patient to relapse. We are recieving samples from several
-    clinical trials exploring different salvage therapies for patients with relapsed
-    DLBCL. Tumour biopsies and liquid biopsies are being collected from patients 
-    both before and after they are treated. Using these temporal sources of tumour DNA,
-    we can identify clonal subpopulations in the tumour, 
-    and further explore how the tumour evolves and adapts in the face of a strong 
-    selective pressure such as treatment. The mutations unique to these resistant 
-    clonal subpopulations can be explored to determine which mutation(s) result 
-    in treatment resistance. We can further determine if these mutations are 
-    detectable prior to treatment, which may allow patient to be screened for resistance 
-    mutations before they are treated.
-  funding: Terry Fox Research Institute
-  collaborators: Christian Steidl, David Scott, Nathalie Johnson
-  assignees: Chris Rushton, Miguel Alcaide, Sarah Arthur
-  photo: projects/DLBCL_Evolution.png
+- name: SARS-CoV-2 mRNA vaccines induce greater complement activation and decreased viremia and Nef antibodies in men with HIV-1
+  collaborators: Dylan J Tuttle, Priscila M S Castanha, Amro Nasser, Maris S Wilkins, Tamara García Galarza, Mounia Alaoui-El-Azher, Deirdre E Cuff, Prabal Chhibbar, Jishnu Das, Yijia Li, Simon M Barratt-Boyes, Robbie B Mailliard, Nicolas Sluis-Cremer*, Charles R Rinaldo*, Ernesto T A Marques*     
 
-- name: Circulating Tumour DNA as a biomarker in non-Hodgkin lymphoma
-  description: >
-    This project aims to develop a novel way of monitoring patients with lymphoma and find a new immunotherapy regimen
-    that would be effective in patients that are not cured with conventional chemotherapy. They will first genetically
-    profile the tumours to determine at which time point they become resistant. They will then determine how these
-    lymphomas evade immune detection and test if targeting these evasion strategies, i.e. "harnessing the immune response"
-    is successful at eradicating chemo-resistant lymphoma.
-  funding: CIHR
-  collaborators: Christian Steidl, Nathalie Johnson
-  assignees: Miguel Alcaide, Stephen Yu, Chris Rushton
-  photo: projects/Figure_1_amplicon.png
+- name: The gut protist Tritrichomonas arnold restrains virus-mediated loss of oral tolerance by modulating dietary antigen-presenting dendritic cells
+  collaborators: Luzmariel Medina Sanchez, Magdalena Siller, Yanlin Zeng, Pamela H. Brigleb, Kishan A. Sangani, Ariadna S. Soto, Clarisse Engl, Colin R. Laughlin, Mohit Rana, Lauren Van Der Kraak, Surya P. Pandey, Mackenzie J. Bender, Britney Fitzgerald, Lee Hedden, Kay Fiske, Gwen M. Taylor, Austin P. Wright, Isha D. Mehta, Syed A. Rahman, Heather J. Galipeau Steven J. Mullett, Stacy L. Gelhaus, Simon C. Watkins, Premysl Bercik, Timothy J. Nice, Bana Jabri, Marlies Meisel, Jishnu Das, Terence S. Dermody, Elena F. Verdú, Reinhard Hinterleitner*
   
-- name: Comprehensive proteogenomic characterization of mantle cell lymphoma (MCL)
-  description: >
-    Mantle cell lymphoma is a rare cancer that derives from B lymphocytes in the periphery (mantle zone)
-    of the germinal centre. MCL is most often diagnosed at stage 3 or 4 and is typically aggressive although some patients have an indolent form of the disesae.
-    Only 30-40% of patients with advanced disease achieving a complete response to frontline treatments (R-bendamustine).
-    Heterogeneous clinical response is partially attributable to observable variations in morphology, immunophenotype and proliferative capacity;
-    however, there is little known about the relationship between genetic features and variation in phenotype or response to specific treatment regimens.
-    Through a meta-analysis of in-house and existing exome sequencing data, our group has identified multiple novel driver mutations in MCL including some that associate with high or low proliferation.
-    To more completely ascertain the mutations that lead to lymphomagenesis in MCL, we are performing an integrative proteogenomic characterization of MCL tumours using a combination of whole genome sequencing, RNA-seq and shotgun proteomics.
-    We will are using these data to identify novel coding and non-coding (i.e. regulatory) driver mutations that affect the natural history of MCL including treatment response.
-  funding: Terry Fox Research Institute
-  collaborators: Marco Marra, David Scott, Diego Villa
-  assignees: Prasath Pararajalingam, Krysta Coyle
-  photo: projects/mcl_oncoplot.png
+- name: Stability and heterogeneity in the antimicrobiota reactivity of human milk-derived immunoglobulin A
+  collaborators: Chelseá B Johnson-Hence, Kathyayini P Gopalakrishna, Darren Bodkin, Kara E Coffey, Ansen H P Burr , Syed Rahman, Ali T Rai, Darryl A Abbott, Yelissa A Sosa, Justin T Tometich, Jishnu Das, Timothy W Hand* 
 
-- name: Identification and functional characterization of recurrent non-coding mutations in NHLs
-  description: >
-       The list of protein-coding drivers identified through sequencing in DLBCL
-       has begun to saturate and yet there remains a gap in our understanding
-       of how these genetic alterations contribute to the
-       transcriptional differences underlying known prognostic signatures and molecular subgroups.
-       For example, dysregulation of NF-κB is the hallmark feature of ABC
-       DLBCL but many ABC cases appear to lack the common driver mutations
-       that are known to promote NF-κB. We are seeking driver mutations
-       that contribute to some features of NHLs.
-       We use data-driven comprehnsive methods that allow identification of
-       non-coding SSMs with a regulatory effect in cis or trans on
-       genes/proteins relevant to malignancy.
-  funding: Terry Fox Research Institute, CIHR
-  collaborators: Christian Steidl, Tim Audas, Peter Unrau
-  assignees: Sarah Arthur, Krysta Coyle, Matthew Nguyen, Aixiang Jiang
-  photo: projects/NFKBIZ_overview_cropped.png
+- name: PRMT blockade induces defective DNA replication stress response and synergizes with PARP inhibition
+  collaborators: HYang Li, Lacey E Dobrolecki, Christina Sallas, Xudong Zhang, Travis D Kerr, Deepa Bisht, Yalong Wang, Sharad Awasthi, Babita Kaundal, Siqi Wu, Weiyi Peng, Marc L Mendillo, Yiling Lu, Collene R Jeter, Guang Peng, Jinsong Liu, Shannon N Westin, Anil K Sood, Michael T Lewis, Jishnu Das, S Stephen Yi, Mark T Bedford, Daniel J McGrail*, Nidhi Sahni*
 
-- name: Comprehensive characterization of endemic and sporadic Burkitt lymphoma
-  description: >
-    Burkitt lymphoma (BL) is currently classified as one of three clinical
-    variants: endemic BL, sporadic BL, and HIV-associated BL.
-    The endemic variant is primarily diagnosed in sub-Saharan Africa and is
-    epidemiologically associated with the Epstein–Barr virus (EBV) and
-    malaria infection; although, the role of these pathogens in promoting
-    the formation of BL remains unclear.
-    On the other hand, sporadic BL is diagnosed outside of malaria-endemic
-    areas, with only a minority of cases being EBV-positive (10-30%).
-    This project seeks to generate high-throughput whole genome and
-    transcriptome sequencing data from over 100 BL tumours in order to
-    elucidate the genetic and molecular underpinnings of the disease.
-    With this project, we aim to refine the mutational landscape of BL to
-    facilitate the development of less toxic targeted therapies.
-    We also plan on investigating the oncogenic role of EBV and whether it may
-    serve as a better criterion for disease classification than the current
-    system relying on geographic origin.
-  funding: National Cancer Institute, Foundation for Burkitt Lymphoma Research
-  collaborators: Marco Marra, Louis Staudt
-  assignees: Bruno Grande, Aixiang Jiang
-  photo: projects/blgsp_ash_2017.jpg
+- name: Cell‐type‐specific biomarkers of systemic sclerosis disease severity capture cell‐intrinsic and cell‐extrinsic circuits
+  collaborators: Berkowitz JS, Tabib T, Xiao H, Sadej GM, Khanna D, Fuschiotti P, Lafyatis RA*, Das J*
   
-- name: Genetic characterization of HIV-associated DLBCL
-  description: >
-    Diffuse large B-cell lymphoma is a common HIV-associated cancer.
-    The genetic and molecular aetiology of HIV+ DLBCL has not been thoroughly explored. 
-    This study seeks to characterize HIV+ DLBCL through comprehensive whole genome, 
-    transcriptome, and miRNA sequencing. Enhancing our understanding of the molecular features of these 
-    tumours, particularly those that distinguish them from other DLBCLs, may translate into improved
-    therapies for a growing population of patients afflicted with both HIV and cancer. 
-  funding: National Cancer Institute
-  collaborators: Marco Marra, Louis Staudt
-  assignees: Nicole Thomas, Bruno Grande
-  photo: 
+- name: Antibodies against the Ebola virus soluble glycoprotein are associated with long-term vaccine-mediated protection of non-human primates
+  collaborators: Gunn BM, McNamara RP*, Wood L, Taylor S, Devadhasan A, Guo W, Das J, Nilsson A, Shurtleff A, Dubey S, Eichberg M
 
-- name: Genetic characterization of canine B-cell lymphomas
-  description: >
-    Cancer is the leading cause of premature death in pet dogs and non-Hodgkin lymphomas are the most common cancer in most dog breeds.
-    Unlike human lymphomas with similar histopathology, canine B-cell lymphomas (cBCL) are incurable and exhibit an agressive clinical course.
-    We are sequencing cBCLs to identify driver mutations that contribute to this cancer in a variety of dog breeds. 
-    We identified TRAF3 as a novel tumour suppressor in cBCL and are pursuing additional candidate genes. 
-    We are also exploring plasma from cBCLs to evaluate the utility of ctDNA as a biomarker and non-invasive source of tumour DNA in canine lymphoma. 
-  funding: NSERC
-  collaborators:
-  assignees: Kevin Bushell, Jack Hillman, Matt Cheung
-  photo: projects/TRAF3.png
+- name: Lipidomic signatures align with inflammatory patterns and outcomes in critical illness
+  collaborators: Junru W, Anthony C, Danielle S. G, Tyler C. L, Panayiotis V. B, Jishnu Das, Upendra K. Kar, Tianmeng Chen, Francis X. Guyette, Mark H. Yazer, Brian J. Daley, Richard S. Miller, Brian G. Harbrecht, Jeffrey A. Claridge, Herb A. Phelan, Brian S. Zuckerbraun, Matthew D. Neal, Pär I. Johansson, Jakob Stensballe, Rami A. Namas, Yoram Vodovotz, Jason L. Sperry, Timothy R. Billiar & PAMPer study group
+
+- name: Multi-Omic Admission-Based Prognostic Biomarkers Identified by Machine Learning Algorithms Predict Patient Recovery and 30-Day Survival in Trauma Patients
+  collaborators: Abdelhamid SS, Scioscia J, Vodovotz Y, Wu J, Rosengart A, Sung E, Rahman S, Voinchet R, Bonaroti J, Li S, Darby JL, Kar UK, Neal MD, Sperry J, Das J, Billiar TR
+
+- name: Antibodies against the Ebola virus soluble glycoprotein are associated with long-term vaccine-mediated protection of non-human primates
+  collaborators: Gunn BM, McNamara RP*, Wood L, Taylor S, Devadhasan A, Guo W, Das J, Nilsson A, Shurtleff A, Dubey S, Eichberg M
+
+- name: Autoreactive CD8+ T cells are restrained by an exhaustion-like program that is maintained by LAG3
+  collaborators: Grebinoski S, Zhang Q, Cillo AR, Manne S, Xiao H, Brunazzi EA, Tabib T, Cardello C, Lian CG, Murphy GF, Lafyatis R, Wherry EJ, Das J, Workman CJ, Vignali DAA
+  
+- name: A Supervised Take on Dimensionality Reduction via Hybrid Subset Selection
+  collaborators: Rahimikollu J., Das J*
+
+- name: High Dimensional Multi-omics Reveals Unique Characteristics of Early Plasma Administration in Polytrauma Patients with TBI
+  collaborators: Wu J., Moheimani H, Li S, Kar U, Bonaroti J, Miller R, Daley B, Harbrecht B, Claridge J, Gruen D, Phelan H, Guyette F, Neal M., Das J*, Sperry J*, Billiar T*
+
+- name: A network-based approach to identify expression modules underlying rejection in pediatric liver transplantation
+  collaborators: Ningappa, M., Rahman, S. A., Higgs, B. W., Ashokkumar, C. S., Sahni, N., Sindhi, R., & Das, J*
+
+- name: Functional reprogramming of monocytes in acute and convalescent severe COVID-19 patients
+  collaborators: Brauns E., Azouz A., Grimaldi D., Xiao H., Thomas S., Nguyen M., Olislagers V., Vu Duc I., Orte Cano C., Del Marmol V., Pannus P., Libert F., Saussez S., Dauby N., Das J, Marchant A., Goriely S.
+
+- name: Fungal sensing enhances neutrophil metabolic fitness by regulating antifungal Glut1 activity
+  collaborators: Li D.D., Jawale C.V., Zhou C., Lin L., Trevejo-Nunez G.J., Rahman S.A., Mullet S.J., Das J., Wendell S.G., Delgoffe G.M., Lionakis M.S., Gaffen S.L., Biswas P.S.A, Dubey S, Eichberg M
+
+- name: Essential Regression- A generalizable framework for inferring causal latent factors from multi-omic datasets
+  collaborators: Bing X, Lovelace T, Bunea F, Wegkamp M, Kasturi S.P, Singh H, Benos P.V, Das J*
+
+- name: Upper and lower respiratory tract correlates of protection against respiratory syncytial virus following vaccination of nonhuman primates
+  collaborators: Zohar T., Hsiao J.C,. Mehta N., Das J., Devadhasan A., Karpinski W., Callahan C., Citron M.P., DiStefano D.J., Touch S., Wen Z., Sachs J.R., Cejas P.J., Espeseth A.S., Lauffenburger D.A., Bett A.J., Alter G.
+
+- name: Mechanisms of Impaired Lung Development and Ciliation in Mannosidase-1-Alpha-2 Mutants
+  collaborators: Ningappa N., Adenuga N., Ngo K., Mohamed N., Narayanan T., Prasadan K., Ashokkumar C., Das J., Schmitt L., Hartman H., Sehrawat A., Salgado C., Reyes-Mugica M., Gittes G, Lo C., Subramaniam S., Sindhi R.
+
+- name: People critically ill with COVID-19 exhibit peripheral immune profiles predictive of mortality and reflective of SARS-CoV-2 lung viral burden
+  collaborators: Cillo A.R., Somasundaram A., Shan F., Cardello C., Workman C.J., Kitsios G.D., Ruffin A.T., Kunning S., Lampenfeld C., Onkar S., Grebinoski S., Deshmukh G., Methe B., Liu C., Nambulli S., Andrews L.P., Duprex W.P., Joglekar A.V., Benos P.V., Ray P., Ray A., McVerry B.J., Zhang Y., Lee J.S., Das J., Singh H., Morris A., Bruno T.C., Vignali D.A.A.
+
+- name: Delayed fractional dosing with RTS, S/AS01 improves humoral immunity to malaria via a balance of polyfunctional NANP6-and Pf16-specific antibodies.
+  collaborators: Das J., Fallon J. K., Yu T. C., Michell A., Suscovich T. J. , Linde C., Natarajan H., Weiner J., Coccia M., Gregory S., Ackerman M. E., Bergmann-Leitner E., Fontana L., Dutta S., Lauffenburger D. A., Jongert E., Wille-Reece U., Alter G.
+
+- name: Mining for humoral correlates of HIV control and latent reservoir size
+  collaborators: Das J., Devadhasan A., Linde C., Broge T., Sassic J., Mangano M., O Keefe S., Suscovich T.J., Streeck H., Irrinki A., Pohlmeyer C., Min-Oo G., Lin S., Weiner J.A., Cihlar T., Ackerman M.E., Julg B., Deeks S., Lauffenburger D., Alter G.
+
+- name: Extracellular Matrix Injury of Kidney Allografts in Antibody-Mediated Rejection- A Proteomics Study
+  collaborators: Clotet-Freixas S., McEvoy C., Batruch I., Pastrello C., Kotlyar M., Van J., Arambewela M., Boshart A., Farkona S., Niu Y., Li Y., Famure O., Bozovic A., Kulasingam V., Chen P., Kim J., Chan E., Moshkelgosha S., Rahman S., Das J., Martinu T., Juvet S., Jurisica I., Chruscinski A., John R., Konvalinka A.
+
+- name: Glucosylation by the Legionella effector SetA promotes the nuclear localization of the transcription factor TFEB
+  collaborators: Beck W., Kim D., Das J., Yu H., Marcus B., Smolka M., Mao Y.
+
+- name: Co-immunization of DNA and Protein in the Same Anatomical Sites Induces Superior Protective Immune Responses against SHIV Challenge
+  collaborators: Felber B, Lu Z, Hu Z, Valentin A, Rosati M, Remmel C, Weiner J, Carpenter M, Faircloth K, Stanfield-Oakley S, Williams W, Shen X, Tomaras G, LaBranche C, Montefiori D, Trinh H, Rao M, Alam M, Vandergrift N, O Saunders K, Wang Y, Rountree W, Das J, Alter G, Reed S, Aye P, Schiro F, Pahar B, Dufour J, Veazey R, Marx P, Venzon D, Shaw G, Ferrari G, Ackerman M, Haynes B, Pavlakis G
+
+- name: Mapping functional humoral correlates of protection against malaria challenge following RTS, S/AS01 vaccination
+  collaborators: Suscovich T.*, Fallon J.*, Das J.*, Demas A.*, Crain J., Linde C., Michell A., Natarajan H., Arevalo C., Broge T., Linnekin T., Kulkarni V., Lu R., Luedemann C., Marquette M., March S., Weiner J.A., Zavala F., Gregory S., Coccia M., Flores-Garcia Y., Ackerman M.E., Bergmann-Leitner E., Lauffenburger D., Hendriks J., Sadoff J., Bhatia S., Jongert E., Wilke-Reece U., Alter G..
+
+- name: Latency reversal agents modulate HIV antigen processing and presentation to CD8 T cells
+  collaborators: Boucau J., Das J., Joshi N., Le Gall S.
+
+- name: Antibody Fc-glycosylation discriminates latent and active tuberculosis
+  collaborators: Lu L.*, Das J.*, Grace P., Fortune S., Restrepo B., Alter G.
+
+- name: Epigenetic basis for monocyte dysfunction in acute-on-chronic liver failure and alcoholic hepatitis
+  collaborators: Weichselbaum L., Azouz A., Smolen K., Das J., Splittgerber M., Lepida A., Moreno C., Schreiber J., Serste T., Trepo E., Libert F., Gustot T., Goriely S.
+
+- name: Latent model-based clustering for biological discovery
+  collaborators: Bin X., Bunea F., Royer M., Das J.*
+
+- name: Effect of dietary fat and sucrose consumption on cardiac fibrosis in mice and rhesus monkeys
+  collaborators: Fragoza R*, Das J*, Wierbowski S.D, Liang J, Tran T.N, Liang S, Beltran J.F, Rivera-Erick C.A, Ye K, Wang T.Y, Yao L, Mort M, Stenson P.D, Cooper D.N, Wei X, Keinan ., Schimenti J.C, Clark A.G, Yu H
+
+- name: Fc glycan-mediated regulation of placental antibody transfer
+  collaborators: Jennewein M.F., Goldfarb I., Dolatshahi S., Cosgrove C., Noelette F.J., Krykbaeva M., Das J., Sarkar A., Gorman M.J., Fischinger S., Boudreau C.M., Brown J., Cooperrider J.H., Aneja J., Suscovich T.J., Graham B.S., Lauer G.M., Goetghebuer T., Marchant A., Lauffenburger D., Kim A.Y., Riley L.E., Alter G.
+
+- name: Genetic polymorphisms in the open reading frame of the CCR5 gene from HIV-1 seronegative and seropositive individuals from national capital regions of India
+  collaborators: Ronsard L, Sood V, Yousif A.S, Ramesh J, Shankar V, Das J, Sumi N, Rai T, Mohankumar K, Sridharan S, Dorschel A, Ramachandran V.G, Banerjea A.C
+ 
+- name: Antibiotics-driven gut microbiome perturbation alters immunity to vaccine in humans
+  collaborators: Hagan T, Cortese M, Rouphael N, Boudreau C, Linde C, Maddur M.S, Das J, Wang H, Guthmiller J, Zheng N.Y, Huang M, Uphadhyay A.A, Gardinassi L, Petitdemange C, McCullough M.P, Johnson S.J, Gill K, Cervasi B, Zou J, Bretin A, Hahn M, Gewirtz A.T, Bosinger S.E, Wilson P.C, Li S, Alter G, Khurana S, Golding H, Pulendran B
+
+- name: Initiation of anti-retroviral therapy before pregnancy reduces the risk of infection related hospitalization in HIV-exposed uninfected infants
+  collaborators: Goetghebuer T.*, Smolen K.*, Adler C.*, Das J.*, McBride T., Smits G., Lecomte S., Haelterman E., Barlow P., Piedra P.A., van der Klis F., Kollmann T.R., Lauffenburger D.A., Alter G., Levy J., Marchant A.
+
+- name: A role for Fc function in therapeutic monoclonal antibody-mediated protection against Ebola virus
+  collaborators: Gunn B.M, Yu W.H, Karim M.M, Brannan J.M, Herbert A.S, Wec A.Z, Halfmann P.J, Fusco M.L, Schendel S.L, Gangavarapu K, Krause T, Qiu X, He S, Das J, Suscovich T.J, Lai J, Chandran K, Zeitlin L, Crowe J.E. Jr, Lauffenburger D, Kawaoka Y, Kobinger G.P, Andersen K.G, Dye J.M, Saphire E.O, Alter G
+
+- name: Route of immunization defines multiple mechanisms of vaccine-mediated protection against SIV
+  collaborators: Ackerman M*, Das J, Pittala S, Broge T, Linde C, Suscovich T.J, Brown E.P, Bradley T, Natarajan H, Lin S, Sassic J.K, OKeefe S, Mehta N, Goodman D, Sips M, Weiner J.A, Tomaras G.D, Haynes B.F, Lauffenburger D.A, Bailey-Kellogg C, Roederer M, Alter G
+
+- name: The transcription factors Runx3, T-bet and ThPOK co-regulate acquisition of cytotoxic function by human Th1 lymphocytes
+  collaborators: Serroukh Y, Gu-Trantien C, Hooshiar Kashani B, Defrance M, Vu Manh T.P, Azouz A, Detavernier A, Hoyois A, Das J, Bizet M, Pollet E, Tabbuso T, Calonne E, van Gisbergen K, Dalod M, Fuks F, Goriely S, Marchant A
+
+- name: Analysis of Complement mediated lysis of SIV and SIV-infected cells reveals sex differences in vaccine-induced immune responses and protection from infection in Rhesus macaques
+  collaborators: Miller-Novak L, Das J, Musich T.A, Demberg T, Weiner J.A, Venzon D.J, Mohanram V, Vargas-Inchaustegui D.A, Tuero I, Ackerman M.E, Alter G, Robert-Guroff M
+
+- name: Temporal variation in HIV-specific IgG subclass antibodies during acute infection differentiates spontaneous 4 controllers from chronic progressors
+  collaborators: Sadanand S*, Das J*, Chung A.W*, Schoen M.K, Lane S, Suscovich T.J, Streeck H, Smith D.M, Little S.J, Lauffenburger D.A, Richman D.D, Alter G
+
+- name: A multi-landing pad DNA integration platform for mammalian cell engineering
+  collaborators: Gaidukov L, Wroblewska L, Teague B, Nelson T, Zhang X, Liu Y, Jagtap K, Mamo S, Tseng W.A, Lowe A, Das J, Bandara K, Baijuraj S, Summers N.M, Lu T.K, Zhang L, Weiss R
+
+- name: Control of heterologous SIVsmE660 infection by DNA and protein co-immunization regimens combined with different Toll-like receptor-4 (TLR-4) based adjuvants in macaques
+  collaborators: Singh S, Ramírez-Salazar E.G, Doueiri R, Valentin A, Rosati M, Hu X, Keele B.F, Shen X, Tomaras G.D, Ferrari G, LaBranche C, Montefiori D.C, Das J, Alter G, Trinh H.V, Hamlin C, Rao M, Dayton F, Bear J, Chowdhury B, Alicea C, Lifson J.D, Broderick K.E, Sardesai N.Y, Sivananthan S.J, Fox C.B, Reed S.G, Venzon D.J, Hirsch V.M, Pavlakis G.N, Felber B.K
+
+- name: A proteome-wide fission yeast interactome reveals network evolution principles from yeasts to human
+  collaborators: Vo T*, Das J*, Meyer M.J*, Cordero N.A, Akturk N, Wei X, Fair B.J, Degatano A.G, Fragoza R, Liu L.G, Matsuyama A, Trickey M, Horibata S, Grimson A, Yamano H, Yoshida M, Roth F.P, Pleiss J.A, Xia Y, Yu H
+
+- name: Mutation3D- cancer gene prediction through atomic clustering of coding variants in the structural proteome
+  collaborators: Meyer M, Lapcevic R, Romero A, Yoon M, Das J, Beltrán J.F, Mort M, Stenson P.D, Cooper D.N, Paccanaro A, Yu H
+
+- name: ENCAPP- elastic-net-based prognosis prediction and biomarker discovery for human cancers
+  collaborators: Das J, Gayvert K.M, Bunea F, Wegkamp M.H, Yu H
+
+- name: Phosphoproteomics reveals distinct modes of Mec1/ATR signaling during DNA replication
+  collaborators: de Oliviera F.B, Kim D, Cussiol J.R, Das J, Jeong M.C, Doerfler L, Schmidt K.H, Yu H, Smolka M.B
+
+- name: Studying autism in context
+  collaborators: Das J, Meyer M.J, Yu H
+
+- name: A massively parallel pipeline to clone DNA variants and examine molecular phenotypes of human disease mutations
+  collaborators: Wei X* , Das J* , Fragoza R*, Liang J, Bastos de Oliveira F.M, Lee H.R, Wang X, Mort M, Stenson P.D, Cooper D.N, Lipkin S.M, Smolka M.B, Yu H
+
+- name: Elucidating common structural features of human pathogenic variations using large-scale atomic-resolution protein networks
+  collaborators: Das J, Lee H.R, Sagar A, Fragoza R, Liang J, Wei X, Wang X, Mort M, Stenson P.D, Cooper D.N, Yu H
+
+- name: Predicting cancer prognosis using functional genomics datasets
+  collaborators: Das J, Gayvert K.M, Yu H
+
+- name: Cross-species protein interactome mapping reveals species-specific wiring of stress response pathways
+  collaborators: Das J, Vo T.V, Wei X, Mellor J.C, Tong V, Degatano A.G, Wang X, Wang L, Cordero N.A, Kruer-Zerhusen N, Matsuyama A, Pleiss J.A, Lipkin S.M, Yoshida M, Roth F.P, Yu H
+
+- name: Integrative annotation of variants from 1,092 humans- application to cancer genomics
+  collaborators: Khurana E, Fu Y, Colonna V, Mu X.J, Kang H.M, Lappalainen T, Sboner A, Lochovsky L, Chen J, Harmanci A, Das J, Abyzov A, Balasubramanian S, Beal K, Chakravarty D, Challis D, Chen Y, Clarke D, Clarke L, Cunningham F, Evani U.S, Flicek P, Fragoza R, Garrison E, Gibbs R, Gümüş Z.H, Herrero J, Kitabayashi N, Kong Y, Lage K, Liluashvili V, Lipkin S.M, MacArthur D.G, Marth G, Muzny D, Pers T.H, Ritchie G.R.S, Rosenfeld J.A, Sisu C, Wei X, Wilson M, Xue Y, Yu F, Dermitzakis E.T, Yu H, Rubin M.A, Tyler-Smith C, Gerstein M
+
+- name: INstruct - a database of high-quality 3D structurally resolved protein interactome networks
+  collaborators: Meyer M*, Das J*, Wang X*, Yu H
+
+- name: Dissecting disease inheritance modes in a 3D protein network challenges the guilt-by-association principle
+  collaborators: Guo Y, Wei X, Das J, Grimson A, Lipkin S.M, Clark A.G, Yu H
+
+- name: HINT- High-quality interactomes and their applications in understanding human disease
+  collaborators: Das J and Yu H
+
+- name: Genome-scale analysis of interaction dynamics reveals organization of biological networks
+  collaborators: Das J, Mohammed J, Yu H
+
+- name: Three-dimensional reconstruction of protein networks provides insight into human genetic disease
+  collaborators: Wang X*, Wei X*, Thijssen B*, Das J*, Lipkin S.M, Yu H

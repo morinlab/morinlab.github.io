@@ -1,668 +1,173 @@
-- name: Dr. Ryan D. Morin
+- name: Dr. Jishnu Das
   is_pi: True
   is_current: True
   position: Professor
   orcid:  https://orcid.org/0000-0003-2932-7800
-  scholar: https://scholar.google.ca/citations?user=IDau0mkAAAAJ&hl=en
-  researchgate: https://www.researchgate.net/profile/Ryan_Morin
-  github: https://github.com/rdmorin
-  twitter: https://twitter.com/morinryan
+  scholar: https://scholar.google.com/citations?user=61wI3HMAAAAJ&hl=en
+  researchgate: https://www.researchgate.net/profile/Jishnu-Das-2
+  github: https://github.com/jishnu-lab
+  twitter: https://twitter.com/jishnu1729
   bio: >
-    I am in the department of <a href="http://www.sfu.ca/mbb.html">Molecular Biology and Biochemistry</a> at
-    <a href="http://www.sfu.ca">Simon Fraser University</a> and hold a Scientist appointment in the <a href="http://www.bcgsc.ca">BC Cancer Genome Sciences Centre</a>.
-    I completed my MSc and PhD in bioinformatics at UBC in the laboratory of
-    Marco Marra.
-    My early research involved the use of massively parallel
-    sequencing to identify driver mutations in leukemias and lymphomas
-    including histone modifiers such as <a href="https://www.ncbi.nlm.nih.gov/pubmed/20081860">EZH2</a> and <a href="https://www.ncbi.nlm.nih.gov/pubmed/21796119">KMT2D</a>.
-    My current research focus involves using genome and transcriptome
-    sequencing to discover novel drivers in B-cell lymphomas and to
-    determine mechanisms that underlie tumour progression and treatment
-    resistance.
-    I have a general interest in developing methods to identify non-coding
-    mutations with regulatory potential from genome-wide data sets and
-    error-corrected sequencing strategies and algorithms to identify mutations and copy number from circulating
-    tumour DNA (<a href="https://www.ncbi.nlm.nih.gov/pubmed/28874686">ctDNA</a>). Dr. Morin is a Scholar of the <a href="https://www.msfhr.org/">Michael Smith Foundation for Health Research</a>.
+    Jishnu completed an undergrad degree in Bioengineering at the Indian Institute of Technology Kanpur followed by graduate studies in Computational Biology at Cornell University. After a short postdoc at the Ragon Institute of MGH, MIT & Harvard/MIT, Jishnu started his Systems Immunology lab. His most important role is that of a “translator" of jargon across disciplines (comp bio, basic and translational clinical immunology); this helps bridge the interdisciplinary expertise in the lab. He is also a cheerleader for all projects in the lab.
 
   photo: team/Morin_headshot_2019.gif
 
 
-- name: Dr. Laura Hilton
+- name: Zarifeh Heidari Rarani
   is_pi: False
   is_current: True
-  position: Staff Scientist, BC Cancer Centre for Lymphoid Cancer
-  github: https://github.com/lkhilton
-  orcid: https://orcid.org/0000-0002-6413-6586
+  position: Postdoctoral Associate
   bio: >
-    B-cell non-Hodgkin lymphomas have a high frequency of driver structural
-    variants, especially those that involve placing the oncogenes MYC, BCL2,
-    BCL6, and CCND1 under the control of potent immunoglobulin enhancers.
-    My project utilizes whole genome and targeted sequencing to characterize
-    these driver SVs across B-NHLs with a goal of understanding the mechanisms
-    by which they arise. I'm also interested in using gene expression and
-    mutation data to facilitate the classification of rare and/or poorly
-    characterized lymphomas, to identify progonostic and predictive biomarkers
-    and targetable vulnerabilities that can be exploited in the development
-    of novel therapies.
+   With a background in control systems engineering, I am deeply passionate about venturing into the captivating realm of computational biology, employing innovative methodologies to unravel its mysteries.
   photo: team/lhilton.jpg
 
-- name: Dr. Krysta Coyle
+- name: Hanxi Xiao
   is_pi: False
   is_current: True
-  position: Postdoctoral Fellow
-  scholar: https://scholar.google.ca/citations?user=AeVci4cAAAAJ&hl=en
-  github: https://github.com/kmcoyle
-  orcid: http://orcid.org/0000-0002-1309-4873
-  researchgate: https://www.researchgate.net/profile/Krysta_Coyle
-  twitter: https://twitter.com/microbialkrysta
+  position: PhD Student | CMU-Pitt Program in Computational Biology (CPCB)
   bio: >
-    My research aims to understand the role of recurrent cis-regulatory
-    mutations in mantle cell lymphoma (MCL).
-    Specifically, I am characterizing a potential role for alternative
-    splicing in the progression of MCL.
-    This work uses a variety of molecular biology tools and bioinformatic
-    approaches to determine how mutations in RNA binding proteins
-    affect in vitro cell behaviour.
-    I am a passionate advocate for equity, diversity, and inclusion and
-    enjoy communicating science to kids and adults alike.
+    Hanxi is currently a PhD student focusing on developing methods for sequencing data analyses. She is mainly interested in applied statistics and machine learning approaches. She has 2 cats who take up most of her free time and is trying to grow a patio garden
   photo: team/kcoyle.jpg
 
 
-- name: Prasath Pararajalingam
+- name: Swapnil Keshari
   is_pi: False
   is_current: False
-  position: PhD Student
-  github: https://github.com/ppararaj
+  position: PhD Student | CMU-Pitt Program in Computational Biology (CPCB)
   bio: >
-    My PhD project has me exploring the molecular aetiology of mantle
-    cell lymphoma (MCL) using a combination of data types and a variety of bioinformatic
-    techniques. My analysis of the mutational landscape of MCL has
-    revealed an enrichment of mutations in splicing factors and RNA-binding proteins. Currently,
-    I am investigating deregulation of non-coding elements using a large dataset of WGS and RNA-seq MCL tumours.
+    Swapnil is a Computational biologist enthusiast with a keen interest in the field of genomics. Before joining the CPCB program, he completed his B.Tech. in chemical engineering from IIT Bombay, India. He likes to travel a lot and is always up for outdoor sports :). In addition to that, he loves to read crime fiction novels, paint and swim.
   photo: team/ppararajalingam.jpg
 
 
-- name: Haya Shaalan
+- name: Prabal Chhibbar 
   is_pi: False
   is_current: True
-  position: MSc Student
-  github: https://github.com/hayashaalan
+  position: PhD Student | Integrative Systems Biology (ISB)
   bio: >
-    I work on implementing and improving pipelines for our Genomic Analysis of Mature B-cell Lymphoma project.
-    I’ve taken an interest in incorporating promethION long-read sequencing data into this project to perform various
-    analyses exploring copy number variation, simple somatic mutations, and structural variation patterns. PromethION
-    sequencing has certain advantages over short read sequencing in that it provides a more comprehensive view on
-    structural variant discovery and informs on methylation state. We hope that the addition of promethION data will
-    consolidate previous findings, as well as provide further insight to the genomic landscape of this disease.
+    Prabal completed his B.Tech in computer science and engineering from SRM Institute of Science and Technology in 2019. His interests are in Protein-Protein Interactions, Host-Viral interactions, complex networks, machine learning and deep learning. Prabal is always eager to discuss science and brainstorm ideas. Out of work, you can find him passionately discussing politics, hanging out with his friends or reading voraciously and consuming a whole lot of content.
   photo: team/haya.jpg
 
 
-- name: Nicole Thomas
+- name: Trirupa Chakraborty
   is_pi: False
   is_current: False
-  position: PhD Student
-  github: https://github.com/nthomas11
+  position: PhD Student | Integrative Systems Biology (ISB)
   bio: >
-    I completed my Honours Project in the Morin lab, during which I investigated the role of putative enhancers in
-    Mantle Cell Lymphoma. My current role in the lab involves the mining of RNA-Seq data to identify unique gene
-    expression patterns present in Non-Hodgkin’s Lymphoma. Currently, I am using RNA-Seq data, in conjunction with
-    Whole Genome Sequencing data, to identify mutations and single nucleotide polymorphisms that affect the alternative
-    splicing of RNA transcripts.
+    Trirupa has done her BS-MS dual degree from IISER Mohali, India. Her research is primarily focused on understanding the network of non-coding DNA regions in the B cell and how they may affect B cell fate dynamics. When she is not squinting at large blocks of code, you'd find her exploring new places to eat, grooving to random Tamil songs and learning Indian classical dance or just chillin' with her friends B)
   photo: team/nthomas.jpg
 
-- name: Dr. Kostiantyn Dreval
+- name: Javad Rahimikollu
   is_pi: False
   is_current: True
-  github: https://github.com/kdreval
-  position: Research Associate
+  position: PhD Student | CMU-Pitt Program in Computational Biology (CPCB)
   bio: >
-    I obtained PhD in 2014, following which I received comprehensive training at FDA-NCTR and University of New Mexico.
-    During my career, I conducted original research in the area of cancer epigenomics and transcriptomics. While
-    performing basic research in cancer biology and epigenetics, I became passionate about scientific discoveries
-    in the area of bioinformatics and computational biology. In the Morin lab, I am applying a variety of bioinformatics
-    tools to uncover genomic features of Burkitt lymphoma, a form of aggressive B-cell non-Hodgkin lymphoma. Specifically,
-    my research is focused on comparing the genomic and molecular characteristics of adult and pediatric BL, Epstein-Barr
-    virus (EBV) positive and negative BL, as well as endemic and sporadic cases, which will allow better diagnosis approaches
-    and will ultimately facilitate development of more effective treatment strategies.
+    Javad enjoys doing research and developing methods for solving real-world problems.
   photo: team/kdreval.jpg
 
-- name: Kristena Daley
+- name: Priyamvada Guha Roy
   is_pi: False
   is_current: False
-  position: MSc Student
+  position: PhD Student | Human Genetics
   bio: >
-    I received my BSc in biology in 2019, with my honours thesis focusing on the assembly and annotation of the Atlantic
-    deep-sea scallop transcriptome in order to determine differential gene expression in populations across Atlantic Canada.
-    In the Morin lab, I am currently researching circulating tumor DNA (ctDNA) in various Non-Hodgkin’s lymphoma subtypes
-    to identify mutation- and progression-based trends. My project aims to infer genome-wide methylation of Burkitt lymphoma (BL)
-    and diffuse large B-cell lymphoma (DLBCL), as well as explore the benefits and drawbacks of common ctDNA
-    quantification strategies for both BL and DLBCL patients across Canada.
+    Priyamvada is a second year master's student in the Department of Human Genetics. She is interested in studying the genetic architecture underlying complex traits of public health importance. In her free time, she enjoys baking and petting dogs.
   photo: team/kristena.jpg
 
-- name: Ryan Riley
+- name: Aaron Rosen
   is_pi: False
   is_current: False
-  position: Bioinformatician
+  position: PhD Student | CMU-Pitt Program in Computational Biology (CPCB)
   bio: >
-    I obtained my MSc in the Gregg Morin lab co-supervised by Ryan Morin and now I am working in Ryan Morin's lab co-supervised by Gregg Morin.
-    My lab "claim to fame" is that my hair length exceeds the combined hair length of all the other Ryans and Morins. My interests include long walks on windy beaches at sunset, mantle cell lymphoma and proteomics.
+   Aaron is using computational methods to study host-pathogen interactions and autoimmunity. Before joining CPCB, Aaron graduated from the University of Washington with a B.S. in biochemistry/applied math.
   photo: team/IMG_1330.jpg
 
-- name: Dr. Elie Ritch
+- name: Marisa Abundis
   is_pi: False
   is_current: False
-  position: Bioinformatician
-  bio: >
-    I started my journey into bioinformatics and genomics in the Morin lab and here I am again after completing my PhD. It's just that fun!
+  position: PhD Student | CMU-Pitt Program in Computational Biology (CPCB)
+  bio: >  
+    Marisa Abundis is a first year PhD student in the Department of Computational & Systems Biology. She is interested in using computational methods to improve our understanding of human health and disease. In her free time she enjoys thrifting, finding new places to eat, and looking at cute animals.
   photo: team/Elie_crop.jpeg
 
-- name: Carl-Adam Mattsson
+- name: Alisa Omelchenko
   is_pi: False
   is_current: False
-  github: https://github.com/mattssca
-  position: Research Programmer
+  position: PhD Student | CMU-Pitt Program in Computational Biology (CPCB)
   bio: >
-    With an MSc. in Bioinformatics (UBC) I work as a Research Programmer, focusing on improving existing bioinformatic and
-    computational infrastructure as well as the development and design of novel bioinformatic pipelines connected to Mature
-    B-cell Lymphoma research facilitated by the Morin lab. With a background in cytogenetics and medical genetics, I am very
-    interested in linking rare genetic variation to cancer predisposition and allowing for improved and effective treatment
-    decisions in cancer.
+    Alisa completed a B.S./M.S. in Biotechnology at NYU Tandon School of Engineering. Her scientific goal is to bridge the gap between the computational and biology fields through designing easily adaptable computational methods. Outside of work, she is an avid baker and loves learning to cook new cuisines. She also enjoys dancing, hiking, and yoga.
   photo: team/adam.jpg
 
-- name: Jasper Wong
+- name: Zakaria Larbi Dahmani
   is_pi: False
   is_current: True
-  position: Bioinformatician
-  orcid:  https://orcid.org/0000-0002-8140-6517
-  github: https://github.com/Jwong684
+  position: PhD Student | Integrative Systems Biology (ISB)
   bio: >
-    Rare aggressive extra-nodal diffuse large B-cell lymphoma (DLBCL) remains unresponsive to standard treatments
-    and has a poor prognosis. My projects aim to genetically characterize these extra-nodal lymphomas to better understand
-    potential mechanisms driving their pathologies. One project involves investigating primary extranodal DLBCLs (specifically
-    primary DLBCL in the testes and CNS), and understanding biological distinctions that separate these extranodal DLBCLs
-    compared to their nodal counterparts, and to examine factors that promote their progression. The other project involves
-    examining plasmablastic lymphoma, a disease typically involving immunocompromised individuals. Because of the rarity of this
-    disease, very few studies have been able to examine the genomic landscape of this disease in depth. Coming from an epigenetics
-    background, I have a particular interest in understanding the dynamics between the genome and epigenome in cancer.
+    Interested in the intersection of physics, chemistry and biology, AI enthusiast, love to learn about peoples culture and stories, big on hiking, traveling and sports
   photo: team/jasper.JPG
 
-- name: Sierra Gillis
+- name: Kaveh Moghbeli
   is_pi: False
   is_current: True
-  position: Research Assistant
-  github: https://github.com/gillissierra
+  position: PhD Student | Integrative Systems Biology (ISB)
   bio: >
-    I'm part of the Morin Lab to provide bioinfomatic support. I enjoy building pipelines for variant analyses,
-    getting curious about Next-Generation Sequencing and alignment, and applying new techniques to investigate
-    ctDNA. I hope to further my collaborative programming skills while doing so.
+    I’m interested in systems immunology, machine learning, and lung transplantation.
   photo: team/sierra.jpg
 
-- name: Dr. Vladimir Souza
+- name: Jane Siwek
   is_pi: False
   is_current: True
-  position: Computational Biologist
+  position: PhD Student | CMU-Pitt Program in Computational Biology (CPCB)
   github: https://github.com/vladimirsouza
   bio: >
-    I have a background in Biology (BSc), Applied Statistics (MSc) and Bioinformatics (PhD).
-    Now I am a computational biologist in the Ryan Morin Lab and am contributing to the
-    development of the R package called GAMBLR. I developed an interest in B-cell lymphoma
-    analysis. In my free time, I like outdoor activities like riding my bike and going to
-    the park.
+    Jane is a student researcher pursuing a degree in Computational & Applied Mathematics & Statistics, Mathematical Biology Track from William & Mary. She is interested in the intersection between data science and biology, specifically using machine and deep learning methods to explore biological problems such as protein-protein interactions. She is also interested in using deep learning and neural networks to explore global education data and satellite imagery.
   photo: team/vlad.jpg
 
-- name: Dr. Kurt Yakimovich
+- name: Tracy Tabib
   is_pi: False
   is_current: True
-  position: Bioinformatician (data cowboy)
+  position: PhD Student | CMU-Pitt Program in Computational Biology (CPCB)
   github: https://github.com/kyaki
   bio: >
-    I got my PhD studying microbial diversity snow algae blooms in the mountains
-    around Vancouver, and named a couple algae species along the way (I will talk
-    your ear off about it). While I miss tracking water bears through the
-    mountains, after grad school I decided that humans are almost just as cool
-    as algae, and so I dove into the wonderfully complicated and whacky world of
-    cancer. I worked as a bioinformatician for two years at the now defunct
-    Imagia-Canexia health developing and clinically validating targeted cancer
-    diagnostic NGS panels (both PCR and capture based), using circulating tumour
-    DNA. I have now joined the Morin Lab to further my experience working with
-    ctDNA by exploring/supporting the work looking at its prognostic value in
-    DLBCL patients who have relapsed.
+    Tracy is a PhD student in the CMU-Pitt Program in Computational Biology (CPCB). She is interested in applying and developing computational methods to single cell data, particularly for questions and issues relating to human health and disease.
   photo: team/kurt.JPG
 
-- name: Malki Wijesinghe
+- name: Alyson Wang
   is_pi: False
   is_current: True
-  position: MSc student
-  github: https://github.com/MalkiWijesinghe
+  position: PhD Student | CMU-Pitt Program in Computational Biology (CPCB)
   bio: >
-    I'm a Statistics graduate with an interest in developing machine learning
-    algorithms to address biological problems in high-dimensional settings.
-    Currently, my focus is on the development of an advanced predictive machine
-    learning model specifically tailored for classifying main genetic subtypes,
-    DLBCL, FL, BL, and MCL within B-cell lymphoma incorporating cell of origin
-    details, while uncovering new subtypes. I have initiated the development
-    using RNA-Seq data with an underlying vision to expand into a multi-omic
-    approach for a more comprehensive understanding of the biological landscape.
+    Ally received her degrees in Chemistry and Computer Science from Wellesley College and is co-advised by Nate Lord. Outside the lab, she enjoys figure skating, playing video games, and baking.
   photo: team/malki.jpeg
 
-- name: Rachel LaFrance
+- name: Simar Yadav
   is_pi: False
   is_current: True
-  position: Undergraduate student
-  github: https://github.com/rl258
+  position: Undergraduate Student | IIT Roorkee
   bio: >
-    I'm a 4th year Molecular Biology and Biochemistry undergrad student in my
-    final semester. Last year, I did a co-op at STEMCELL Technologies in RND
-    on the Pluripotent Stem Cell team. I gained on-the-bench experience,
-    including techniques like flow cytometry. After returning to SFU in the fall,
-    I took Dr. Morin's bioinformatics class and became interested in his research.
-    I am completing a Genomics certificate by working on this directed research
-    project. My current focus is developing a Python script to leverage mutational
-    information from scATAC-seq data.
+    Simar is an Undergraduate Student Researcher in Das Lab at the University of Pittsburgh and a Senior at IIT Roorkee in the department of Biosciences and Bioengineering. His hobbies are playing soccer and swimming and he is a huge Man United fan. His research interest lies in the field of Computational and Structural Biology and he loves to learn more about it.
   photo: team/rachel.jpg
 
-- name: Houman Layegh Mirhosseini
+- name: Shloka Shukla
   is_pi: False
   is_current: True
-  position: Undergraduate student
-  github: https://github.com/HoumanLM
+  position: Masters Student | Comutational Biology
   bio: >
-    I'm thrilled to be a part of the MORIN Lab's bioinformatic team, where I get
-    to have some fun building functions for the GAMBLR package. My main gig
-    involves working on functions that make analyzing raw data a bit easier.
-    Lately, I've been diving into the world of pyGAMBL, working on an API system
-    to offer an interface for GAMBL results. It's a work in progress, but I'm
-    eager to contribute my part to making data analysis more user-friendly.
-    Grateful for the opportunity to learn and grow with such an amazing team! 
+    Shloka is a second-year Master's student at Carnegie Mellon University, passionately exploring the convergence of computer science and biology in the realm of computational biology. Eager to leverage her skills in analyzing biological data to enhance healthcare outcomes, she immerses herself in research and learning. Outside academia, she finds solace in reading, stays active with kickboxing, and indulges in her love for singing and dancing to Bollywood songs
   photo: team/houman.jpg
 
-- name: Callum Brown
+- name: Akash Kishore
   is_pi: False
   is_current: True
-  position: Undergraduate student
-  github: https://github.com/callumcbrown
+  position: Masters Student | Comutational Biology
   bio: >
-    I am a 4th year student in Molecular Biology and Biochemistry at SFU, and I
-    have been a member of the Morin Lab team for 8 months. Most of my work has
-    been focused on cloning DNA constructs that we use to study mutations in RNA
-    binding proteins, as well as assisting other members of the wet lab with
-    their research. I plan to continue my research in the Morin Lab by beginning
-    grad school later this year.
+    Akash is currently a masters student in Automated Science at CMU. He's interested in utilizing computational approaches for problems in biology no matter how big or small. Purveyor of random stories as a trivia buff, and always up for a game of tennis :)
   photo: team/callum.png
 
-- name: Manuela Cruz
+- name: Kiran Nazarali
   is_pi: False
   is_current: True
-  position: MSc student
+  position: Undergraduate Student
   bio: >
-    I perform various computational analyses to assist in the classification of driver genes within Non-Hodgkin’s Lymphoma.
-    By using computational methods designed to recognize recurrently mutated elements, it is possible to identify mutational
-    hotspots within genes of interest. Hotspots, or genomic regions that contain a higher density of mutations than would be
-    expected, can be recognized by analyzing the linear genomic sequence or the 3D structure of the expressed protein.
-    3D structure-based methods can supplement driver gene discovery by identifying regions in the tertiary structure that
-    may mediate protein function and cell survival. I employ both types of methods for hotspot identification and driver
-    gene discovery.
+    IKiran is an undergraduate student majoring in Computer Science at the Georgia Institute of Technology. She has been working as a student researcher in Dr Das's lab since 2020. Her research involves mining and analyzing data using machine learning algorithms and differential expression analysis. As a researcher in the field of data science, she utilizes programming languages including R, Python, and Java. Her goal is to use critical thinking skills to solve computing problems and acquire skills to conquer the problems of tomorrow.
   photo: team/cruz.jpg
 
-- name: Prince Kumar Lat
-  is_pi: False
-  is_current: False
-  github: https://github.com/princeklat03
-  position: Volunteer
-  bio: >
-    I completed my B.Tech in Bioengineering from IIT Kanpur, India in 2015. I did my B.Tech project at two different labs.
-    First, at Max-Planck Institute, Germany I developed molecular biology techniques to study circular RNA. Second, at IIT Kanpur,
-    where I applied computational tools to study olfactory receptor mechanism in Drosophila. I completed my PhD at Simon
-    Fraser University in 2021, studying in-depth chemistry and biophysics of nucleic acids, including DNA/RNA
-    catalysis and DNA nanotechnology. Towards the end of my PhD, I developed keen interest in applying machine learning models
-    to solve biological problems. In the Morin lab, I aim to deploy robust classification and clustering models to enhance the
-    current understanding on poorly classified B-cell lymphomas.
-  photo: team/prince.jpg
 
-- name: Dr. Christopher Rushton
-  is_pi: False
-  is_current: False
-  position: PhD Student
-  github: https://github.com/ckrushton
-  bio: >
-    My research project focuses on identifying mutations in patients with relapsed Diffuse Large B-Cell Lymphoma; specifically,
-    the analysis of liquid biopsies obtained from these patients. As cells undergo apoptosis, apoptotic bodies containing DNA
-    are released into the bloodstream, and this DNA is called cell-free DNA. In patients with cancer, a portion of this
-    cell-free DNA originates from malignant cells, termed circulating-tumour DNA. Thus, we can obtain tumour genetic material
-    simply by obtaining a blood sample (called a liquid biopsy), which is less invasive and significantly cheaper than traditional
-    biopsies. Due to the unique nature of liquid biopsies, I am currently developing several pieces of software for analyzing
-    and benchmarking existing mutation-calling tools for use with these types of samples. I am applying these tools to samples
-    collected from several clinical trials where liquid biopsies are collected after patients are treated. By comparing the
-    mutation landscape of these patients prior to and following treatment, we identify mutations enriched following treatment,
-    which may contribute to tumour treatment resistance.
-  photo: team/crushton.jpg
-
-- name: Jeffrey Tang
-  is_pi: False
-  is_current: False
-  github: https://github.com/jeffstang
-  position: MSc Student
-  bio: >
-    Recent studies have identified 4 or 5 genetic subgroups in DLBCL, which
-    present a novel method of classification for alternative treatment
-    strategies.
-    My project aims to expand on classifying these subgroups
-    in DLBCL using a machine learning approaches utilizing molecular indicators such as mutation status from a set
-    of genes and hot spots, copy number status and cell-of-origin.
-    I hope to consolidate subtypes from these studies as well as to
-    capture novel groups to better describe clinical
-    heterogeneity in DLBCL.
-  photo: team/jtang.jpg
-
-- name: Leah Tooman
-  is_pi: False
-  is_current: False
-  position: Research Assistant
-  bio: >
-    My role in the Morin Lab is to support the research that is being conducted by our students and postdoctoral fellows
-    through sequencing and cell culture work. I am also responsible for monitoring and maintaining supplies and equipment,
-    conducting research, and ensuring the lab is maintaining high ethical standards . I have been working in a similar position
-    in different genetics based labs in Canada, New Zealand and the United States for over a decade. As passionate as I am
-    about the field of science, I wish it was equally accessible to people of all genders and ethnicities, and from all
-    socioeconomic backgrounds.
-  photo: team/ltooman.jpg
-
-- name: Quratulain Qureshi
-  is_pi: False
-  is_current: True
-  position: Research Technician!
-  bio: >
-      I am a recent MSc. graduate, co-supervisored by Drs. Ryan Morin and Tim Audas.
-      My research focuses on the impact of dysregulated RNA-binding proteins on the
-      transcriptome of B-cell lymphomas, with a specific emphasis on understanding
-      how these alterations influence the expression of lymphoma drivers. To address
-      these questions comprehensively, I employ a dual approach, combining cell
-      and molecular biology techniques with bioinformatics methods. Additionally,
-      I have a special interest in science communication, aiming to make research
-      more accessible and engaging for a wider audience.
-  photo: team/annie.jpg
-
-- name: Dr. Bruno Grande
-  is_pi: False
-  is_current: False
-  position: Postdoctoral fellow, former PhD student
-  scholar: https://scholar.google.ca/citations?user=xHoNHKEAAAAJ&hl=en
-  github: https://github.com/scientificbruno
-  orcid:  https://orcid.org/0000-0002-4621-1589
-  twitter: https://twitter.com/scientificbruno
-  bio: >
-    As the first bioinformatics graduate student in the lab, I've played
-    a role in several projects, each involving cancer genomics to some
-    degree.
-    Currently, my primary project is the genetic and molecular
-    characterization of paediatric Burkitt lymphoma (BL).
-    Defined by an epidemiological association with the Epstein–Barr virus
-    and malaria, the endemic variant of BL has been understudied compared
-    to sporadic BL, which is diagnosed in developed countries.
-    I lead the analysis of whole genome and transcriptome sequencing data
-    derived from over 100 cases, which has led to <a href="https://www.ncbi.nlm.nih.gov/pubmed/30617194">breakthroughs</a> in our
-    understanding of BL pathogenesis.
-    On the side, I'm an advocate for open and reproducible science, a
-    Software Carpentry instructor teaching programming to researchers,
-    and the co-founder of the Scientific Programming Study Group at SFU
-    (SciProg.ca) and the annual Hackseq genomics hackathon.
-  photo: team/bgrande.jpg
-
-- name: Dr. Sarah Arthur
-  is_pi: False
-  is_current: False
-  position: Postdoctoral Fellow (former PhD student)
-  bio: >
-    My project in the lab is focused on the characterization of novel
-    <a href="https://www.ncbi.nlm.nih.gov/pubmed/30275490">NFKBIZ 3’ UTR mutations</a> we previously discovered in DLBCL.
-    These mutations were discovered through a project searching for
-    genome-wide non-coding mutations and found to be significantly
-    enriched in the ABC sub-type of DLBCL.
-    My research involves functional analysis of these mutations in
-    DLBCL cell lines and in vivo mouse xenograft models to determine
-    how these mutations lead to activation of the NF-kB pathway and
-    contribute to DLBCL.
-    I am also working to determine the structure of the NFKBIZ 3’ UTR
-    and how mutations lead to changes that affect the regulation of
-    this gene.
-  photo: team/sarthur.jpg
-
-- name: Dr. Miguel Alcaide
-  is_pi: False
-  is_current: False
-  position: Research Associate
-  researchgate: https://www.researchgate.net/profile/Miguel_Alcaide
-  scholar: https://scholar.google.ca/citations?hl=en&user=5Jig5G4AAAAJ
-  bio: >
-    My main role at the Morin lab focuses on the development and
-    implementation of assays with potential utility in the genetic
-    stratification, non-invasive monitoring and management of cancer
-    patients.
-    We have developed assays relying on <a href="https://www.ncbi.nlm.nih.gov/pubmed/28874686">targeted hybridization capture
-    followed by high throughput sequencing</a> as well as assays relying on
-    droplet digital PCR (ddPCR).
-    I am particularly interested in the development and optimization of
-    molecular techinques for the ultrasensitive and straightforward
-    detection of tumour-derived DNA fragments.
-    Detection and quantification of circulating tumour DNA (ctDNA) via
-    duplex sequencing with semi-degenerate barcoded adapters and the use
-    of wild-type specific hydrolysis probes <a href="https://www.ncbi.nlm.nih.gov/pubmed/27440511">(“inverted” ddPCR)</a> to detect
-    multiple recurrent somatic mutations of clinical relevance are
-    amongst my main contributions into this growing area of research.
-    Currently, I am involved in different projects related to the genetic
-    characterization of different types of Non-Hodgkin Lymphoma, and the
-    detection, quantification and serial monitoring of ctDNA in cancer
-    patients, including those enrolled in the personalized oncogenomics
-    project (POG). We are also starting to apply our error-correction
-    duplex sequencing approach for the sequencing of ancient DNA,
-    including archaeological specimens of both pacific salmons and
-    woolly dogs.
-  photo: team/malcaide.jpg
-
-- name: Aixiang Jiang
-  is_pi: False
-  is_current: False
-  position: Biostatistician
-  github: https://github.com/ajiangsfu
-  bio: >
-    I am a statistician and a bioinformatician at times.
-    Although I had several years' experience in a molecular biology lab
-    and did tissue/cell culture, DNA and RNA isolation, real-time PCR,
-    quantitative and qualitative reverse transcriptase PCR (RT-PCR),
-    cloning, western blots, southern blots, yeast 2-hybrid (Y2H) assay,
-    microarray, even manually sequencing and so on;
-    I have been focusing on statistical analysis since 2002.
-
-    My daily work involves data analysis, statistical consulting, and of
-    course statistical programming.
-    My research interesting, however, is to develop customized statistical
-    algorithms to solve biological researches problems, especially for
-    high dimensional data.
-    My recent researches are to identify mutation peaks/ranges and build
-    up new <a href="https://www.ncbi.nlm.nih.gov/pubmed/30523716">classification models</a> that can be transformed to different
-    data sets and even different platforms.
-  photo: team/ajiang.jpg
-
-
-- name: Shaghayegh Soudi
-  is_pi: False
-  is_current: False
-  position: Postdoctoral Fellow
-  bio: >
-    I earned my PhD in Evolutionary Biology from Germany. Before joining the Morin lab in January 2021, I was a postdoc
-    at university of California-Davis and UBC-University of Calgary working on understanding the genomic bases of adaptation
-    and convergent evolution. Cancers evolve by a reiterative process of clonal expansion, genetic diversification and
-    clonal selection within the adaptive landscapes of tissue ecosystems. The dynamics are complex, with highly variable
-    patterns of genetic diversity and resulting clonal architecture which are closely related to cancer progression, resistance
-    to therapy, and recurrences,therefore, our better understanding of the evolutionary landscape in cancer can help to develop
-    advanced treatments matching appropriately selected molecular targets. My main interest is to apply evolutionary genomics
-    tools to understand intra-tumour heterogeneity across multiple non-Hodgkin Lymphomas and to reconstruct their evolutionary
-    history as part of the Pan-cancer analysis of B-cell lymphomas using whole-genome sequencing data. These analyses will
-    eventually allow us to reveal the timing of specific genomic aberrations and changing mutational process over the course
-    of cancer evolution.
-  photo: team/photo_shaghayegh.png
-
-- name: Krishanna Campbell
-  is_pi: False
-  is_current: False
-  position: Undergraduate researcher
-  bio: >
-    I am an undergraduate student in MBB at SFU and a long-term volunteer with the lab.
-    My duties include the routine processing of blood samples to isolate plasma and cell pellet for later analysis ( eg. Circulating tumor DNA)
-    along with purification of the cell-free DNA from plasmas utilizing the MagMax cell-free DNA isolation kit and subsequent procedures.
-    I also assist in the canine B-cell lymphoma project specifically in the wet lab setting. I have a complete obsession with anything to do with animals and currently volunteer at a veterinary hospital.
-    I plan to study veterinary medicine after completing my BSc.
-  photo: team/peanut.png
-
-- name: Matt Cheung
-  is_pi: False
-  is_current: False
-  position: Undergraduate researcher
-  bio: >
-  photo: team/mcheung.jpg
-
-- name: Matthew Nguyen
-  is_pi: False
-  is_current: False
-  position: Undergraduate bioinformatician (NSERC USRA)
-  github: https://github.com/matnguyen
-  bio: >
-    My project focuses on using machine learning to detect and filter sequencing artifacts
-    in formalin-fixed paraffin embedded (FFPE) tissues. This will enable more robust variant
-    calling in FFPE tumours which remains a major limitation in the transition from fresh
-    frozen tissues. I am also using interpretable machine learning approaches to classify
-    subtypes of Non-Hodgkin's Lymphomas.
-  photo: team/mnguyen.jpg
-
-- name: Jack Hillman
-  is_pi: False
-  is_current: False
-  position: Undergraduate researcher (NSERC USRA)
-  bio: >
-    I assist with a variety of ongoing projects in the lab. I am currently performing hybridization capture to sequence several lymphoma-related genes in human and canine tumour samples.
-  photo: team/jhillman.jpg
-
-- name: Tony Ngo
-  is_pi: False
-  is_current: False
-  position: Undergraduate researcher
-  bio: >
-    I am an undergraduate student completing a BSc in MBB and joined the laboratory after completing MBB 342.
-    My honors project in the Morin lab focuses on the Fc-gamma receptor locus and the relationship between common germline copy number alterations and non-Hodgkin lymphoma.
-    I am using custom multiplex droplet digital PCR assays to determine the copy number state of five genes in this locus across large cohorts of cases and controls.
-  photo: team/tngo.jpg
-
-- name: Stephen Yu
-  is_pi: False
-  is_current: False
-  position: MSc Student
-  bio: >
-    Circulating tumour DNA (ctDNA) is rapidly becoming adopted as a
-    sensitive biomarker for non-invasive monitoring of treatment response
-    in many cancer types.
-    Stephen's work helped to establish and validate numerous assays for
-    quantifying ctDNA in plasma from lymphoma patients based on common hot spot mutations in genes such as EZH2 and STAT6.
-    These assays demonstrated prognostic utility of ctDNA in multiple
-    <a href="https://www.ncbi.nlm.nih.gov/pubmed/27166360">clinical trials</a> and helped describe <a href="http://clincancerres.aacrjournals.org/content/22/9/2290">patterns of clonal evolution in DLBCL</a>.
-  photo: team/syu.jpg
-
-- name: Kevin Bushell
-  is_pi: False
-  is_current: False
-  position: MSc Student
-  scholar: https://scholar.google.ca/citations?user=OxP8_oIAAAAJ&hl=en
-  bio: >
-    Lymphoma is the most common cancer affecting pet dogs. Kevin used
-    genomic techniques to identify mutations involved in lymphomagenesis
-    in canine B-cell lymphoma.
-    His work identified <a href="https://www.ncbi.nlm.nih.gov/pubmed/25468570">TRAF3</a> as one of the most commonly mutated genes
-    in this cancer. Kevin also studied the potential utility of ctDNA in a
-    variety of human cancers using several techniques including the OnTarget system from Boreal Genomics.
-    He joined the laboratory full-time after graduating and has since transitioned to law school.
-  photo: team/kbushell.jpg
-
-- name: Arezoo Mohajeri
-  is_pi: False
-  is_current: False
-  position: MSc Student
-  researchgate: https://www.researchgate.net/profile/Arezoo_Mohajeri
-  bio: >
-    Arezoo generated and analyzed exome sequence data from diffuse large B-cell lymphoma (DLBCL) and
-    mantle cell lymphoma (MCL) tumours.
-    Her thesis project involved a combination of wet-lab work and bioinformatics including a meta-analysis of published and in-house
-    exome data to identify new recurrently-mutated genes in MCL. Her discoveries a novel silent mutation hot spot in MAP3K14. She also demonstrated patterns of clonal evolution in relapsed DLBCL.
-  photo: team/amohajeri.jpg
-
-- name: Romene Sablok
-  is_pi: False
-  is_current: False
-  position: Undergraduate researcher
-  bio: >
-
-  photo: team/harry.jpg
-
-- name: Jordan Davidson
-  is_pi: False
-  is_current: False
-  position: Undergraduate researcher
-  bio: >
-
-  photo: team/jdavidson.jpg
-
-- name: Elie Ritch
-  is_pi: False
-  is_current: False
-  position: Undergraduate bioinformatician
-  bio: >
-
-  photo: team/harry.jpg
-
-- name: Sepideh Alamouti
-  is_pi: False
-  is_current: False
-  position: Postdoctoral fellow
-  bio: >
-
-  photo: team/harry.jpg
-
-- name: Dan Fornika
-  is_pi: False
-  is_current: False
-  twitter: https://twitter.com/morinryan
-  position: Research Assistant/Bioinformatician
-  bio: >
-
-  photo: team/dfornika.jpg
-
-- name: Selin Jessa
-  is_pi: False
-  is_current: False
-  position: Undergraduate bioinformatician
-  bio: >
-
-  photo: team/harry.jpg
-
-- name: Marco Albuquerque
-  is_pi: False
-  is_current: False
-  github: https://github.com/marcoalbuquerque-sfu
-  position: Undergraduate bioinformatician
-  bio: >
-
-  photo: team/marco.jpg
-
-- name: Kristina Aluzaite
-  is_pi: False
-  is_current: False
-  position: Visiting Graduate Student
-  bio: >
-
-  photo: team/harry.jpg
-
-- name: Stuart Zong
-  is_pi: False
-  is_current: False
-  position: Research Assistant
-  bio: >
-
-  photo: team/harry.jpg

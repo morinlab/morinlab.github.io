@@ -1,194 +1,129 @@
 ---
 layout: page
-title: Publications
-permalink: /publications/
+title: News
+permalink: /News/
 toggle: on
 rank: 4
 ---
-\*Authors contributed equally<br>
 
-Members of the Morin laboratory indicated in **boldface**
+\*A lot has been happening in life<br>
+
+## 2024
+
+February 2024-We published “SLIDE: Significant Latent factor Interaction Discovery and Exploration across biological domains” in Nature Methods-
 
 ## 2023
 
-[Genetic Subdivisions of Follicular Lymphoma Defined by Distinct Coding and non-coding Mutation Patterns](https://ashpublications.org/blood/article/doi/10.1182/blood.2022018719/495422/Genetic-Subdivisions-of-Follicular-Lymphoma)
+December 2023-We published “From bench to bedside via bytes: multi-omic immunoprofiling and integration using machine learning and network approaches” in Human Vaccines and Immunotherapeutics
 
-**Dreval K, Hilton LK, Cruz M, Shaalan H,** Ben-Neriah S, Boyle M, Collinge BJ, **Coyle KM**, Duns G, Farinha P, **Grande B**, Meissner B, **Pararajalingam P, Rushton CK,** Slack GW, Wong JCH, Mungall AJ, Marra MA, Connors JM, Steidl C, Scott DW, **Morin RD.** Blood (2023)
+December 2023-We contributed to “PRMT blockade induces defective DNA replication stress response and synergizes with PARP inhibition”, which was published in Cell Reports Medicine
 
-[Emerging roles for heterogeneous ribonuclear proteins in normal and malignant B cells.](https://pubmed.ncbi.nlm.nih.gov/36745874/)
+November 2023-We contributed to “SARS-CoV-2 mRNA vaccines induce greater complement activation and decreased viremia and Nef antibodies in men with HIV-1”, which was published in The Journal of Infectious Diseases
 
-**Qureshi QUA**, Audas TE, **Morin RD, Coyle KM.** Biochem Cell Biol. (2023)
+October 2023-Jishnu gave an invited talk at BMES 2023 on, "Elucidating humoral profiles associated with Schistosomiasis pathogenesis using interpretable machine learning".
 
-[Genetic subgroups inform on pathobiology in adult and pediatric Burkitt lymphoma](https://ashpublications.org/blood/article/141/8/904/486739/Genetic-subgroups-inform-on-pathobiology-in-adult)
+October 2023-Jishnu gave an invited talk at BMES 2023 on, "Significant latent factor interaction discovery and exploration across biological domains".
 
-**Thomas N, Dreval K,** Gerhard DS, Hilton LK, Abramson JS, Ambinder RF, Barta S, Bartlett NL, Bethony J, Bhatia K, Bowen J, Bryan AC, Cesarman E, Casper C, Chadburn A, **Cruz M**, Dittmer DP, Dyer MA, Farinha P, Gastier-Foster JM, Gerrie AS, **Grande BM**, Greiner T, Griner NB, Gross TG, Harris NL, Irvin JD, Jaffe ES, Henry D, Huppi R, Leal FE, Lee MS, Martin JP, Martin MR, Mbulaiteye SM, Mitsuyasu R, Morris V, Mullighan CG, Mungall AJ, Mungall K, Mutyaba I, Nokta M, Namirembe C, Noy A, Ogwang MD, Omoding A, Orem J, Ott G, Petrello H, Pittaluga S, Phelan JD, Ramos JC, Ratner L, Reynolds SJ, Rubinstein PG, Sissolak G, Slack G, **Soudi S**, Swerdlow SH, Traverse-Glehen A, Wilson WH, **Wong J**, Yarchoan R, ZenKlusen JC, Marra MA, Staudt LM, Scott DW, **Morin RD.** Blood (2023)
+August 2023-We published “Cell Type-Specific Biomarkers of Systemic Sclerosis Disease Severity Capture Cell-Intrinsic and Cell-Extrinsic Circuits” in Arthritis & Rheumatology
+
+August 2023-We contributed to “Stability and heterogeneity in the antimicrobiota reactivity of human milk-derived immunoglobulin A”, which got published in the Journal of Experimental Medicine
+
+July 2023-We contributed to “The gut protist Tritrichomonas arnold restrains virus-mediated loss of oral tolerance by modulating dietary antigen-presenting dendritic cells”, which got published in Immunity
+
+June 2023-We published“Antibodies targeting conserved non-canonical antigens and endemic coronaviruses associate with favorable outcomes in severe COVID-19" in Cell Reports
+
+May 2023-Jishnu gave an invited talk at FASEB Autoimmunity 2023 on , "Multi-dimensional integration of protein interactomes with genomic and molecular data discover distinct RA endotypes".
+
+March 2023-Jishnu gave an invited talk at Cold Spring Harbor Laboratory Network Biology Meeting 2023 on "Uncovering immunomodulatory molecular phenotypes in infectious disease using networks".
+
+April 2023-Jishnu gave an invited talk at Cold Spring Harbor Laboratory Systems Immunology Meeting 2023 on "Multi-dimensional integration of protein interactomes with genomic and molecular data discovers distinct RA endotypes".
+
+April 2023-We contributed to “Antibodies against the Ebola virus soluble glycoprotein are associated with long-term vaccine-mediated protection of non-human primates”, which got published in the Cell Reports
+
+February 2023-We contributed to “High-dimensional proteomics identifies organ injury patterns associated with outcomes in human trauma”, which got published in the The Journal of Trauma and Acute Care Surgery.
 
 ## 2022
 
-[Concerning data inconsistencies in Burkitt lymphoma genome study](https://ashpublications.org/blood/article/doi/10.1182/blood.2022016505/486935/Concerning-data-inconsistencies-in-Burkitt)
+October 2022-Jishnu is a Co-I at Systemic Sclerosis Center for Research and Translation which provides machine learning and network systems expertise to investigators working on SSc, SSc-ILD and SSc-PAH.
 
-**Christopher K Rushton, Kostiantyn Dreval, Ryan D Morin**. Blood (Epub 2022)
+October 2022-Jishnu is a Co-I on the U01 Grant funded to characterize cell-intrinsic and cell-extrinsic signaling circuits in ocular disorders.
 
-[Minimal Information for Reporting a Genomics Experiment](https://ashpublications.org/blood/article/140/24/2549/486782/Minimal-information-for-reporting-a-genomics)
+September 2022-Jishnu gave an invited talk at the Banff-CST Joint Transplant and Pathology Summit titled “Machine learning in clinical decision making in transplant biology”
 
-**Kostiantyn Dreval**, Paul Boutros, **Ryan D. Morin**. Blood (2022)
+August 2022-We published A supervised take on dimensionality reduction via hybrid subset selection in Patterns (Cell Press)
 
-[Shared and distinct genetic features in human and canine B-cell lymphomas](https://www.biorxiv.org/content/10.1101/2021.10.14.464277v1)
+August 2022-Jishnu gave a talk at International Workshop on Scleroderma 2022 in Boston.
 
-**Krysta M Coyle**, **Tiana Hillman**, **Matthew Cheung**,  **Bruno M. Grande**, **Kevin R. Bushell**, **Sarah E. Arthur**, **Miguel Alcaide**, **Nicole Thomas**, **Kostiantyn Dreval**, **Stephanie Wong**, **Krishanna Campbell**,  **Ryan D. Morin**. Blood Advances (2022)
+July 2022-Jishnu was invited to give a talk at ISMB 2022 on the topic “A network-based approach to identify expression modules underlying rejection in pediatric liver transplantation”
 
-## 2021 
+July 2022-Scleroderma CDMRO Award was given to Jishnu (role: Co-I)
 
-[Prognostic significance of FCGR2B expression for the response of DLBCL patients to rituximab or obinutuzumab treatment](https://ashpublications.org/bloodadvances/article/5/15/2945/476457/Prognostic-significance-of-FCGR2B-expression-for)
+July 2022-The Philadelphia Enquirer covered our very recent publication on COVID-19. Find the link to the article here! 
 
-Malgorzata Nowicka, **Laura K. Hilton**,  Margaret Ashton-Key, Chantal E. Hargreaves, Chern Lee, Russell Foxall, Matthew J. Carter, Stephen A. Beers, Kathleen N. Potter, Christopher R. Bolen, Christian Klein, Andrea Knapp, Farheen Mir, Matthew Rose-Zerilli, Cathy Burton, Wolfram Klapper, David W. Scott, Laurie H. Sehn, Umberto Vitolo, Maurizio Martelli, Marek Trneny, Christopher K. Rushton, Graham W. Slack, Pedro Farinha, Jonathan C. Strefford, Mikkel Z. Oestergaard, **Ryan D. Morin**, Mark S. Cragg. Blood Advances (2021)
+July 2022-Our work got covered in Pittsburgh's Action 4 News "4 Your Health: Studying COVID-19 antibody patterns". Have a look here
 
-[Molecular profiling in diffuse large B-cell lymphoma: why so many types of subtypes?](https://onlinelibrary.wiley.com/doi/10.1111/bjh.17811)
+July 2022-Jishnu becomes a co-Director for the Systems Immunology Core (funded by NIAMS P50) which will perform machine learning and network systems analyses on multi-modal datasets in the context of SSc.
 
-**Ryan D. Morin**, **Sarah E. Arthur** and Daniel Hodson. Br J Haem (2021)
+June 2022-Our paper Multi-Omic Admission-Based Prognostic Biomarkers Identified by Machine Learning Algorithms Predict Patient Recovery and 30-Day Survival in Trauma Patients got accepted in Metabolites
 
-[Treating lymphoma is now a bit EZ-er](https://ashpublications.org/bloodadvances/article/5/8/2256/475823/Treating-lymphoma-is-now-a-bit-EZ-er)
+June 2022-Our paper High Dimensional Multi-omics Reveals Unique Characteristics of Early Plasma Administration in Polytrauma Patients with TBI got accepted in Annals of Surgery
 
-**Ryan D. Morin**, **Sarah E. Arthur** and Sarit Assouline. Blood Advances (2021)
+June 2022-We published Antibodies targeting conserved non-canonical antigens and endemic coronaviruses associate with favorable outcomes in severe COVID-19 in Cell Press (Link)
 
-[Non-coding NFKBIZ 3′ UTR mutations promote cell growth and resistance to targeted therapies in diffuse large B-cell lymphoma](https://www.biorxiv.org/content/10.1101/2021.05.22.445261v1)
+May 2022-We found out that our NIAID Flu Systems Vaccinology R01 (Role: MPI, other PIs: Alcorn, Singh, Zimmerman) will be funded. Here is the link to NIH RePORTER
 
-**Sarah E Arthur**, Jie Gao, Shannon Healy, **Christopher K Rushton**, **Nicole Thomas**, **Laura K Hilton**, **Kostiantyn Dreval**, **Jeffrey Tang**, **Miguel Alcaide**, Razvan Cojocaru, Anja Mottok, Adele Telenius, Peter Unrau, Wyndham H Wilson, Louis M Staudt, David W Scott, Daniel J Hodson, Christian Steidl,  **Ryan D Morin**
-BioRxiv (2021)
+May 2022-We participated in a Pitt-Case Western CFAR application that was funded by NIAID Rustbelt (Role: co-I)
 
+May 2022-We contributed to Autoreactive CD8+ T cells are restrained by an exhaustion-like program that is maintained by LAG3  which got published in the Nature Immunology (link)
+
+April 2022-Our CIHR grant (Role: co-I, PI: Konvalinka) was funded.
+
+April 2022-We published a manuscript in Cell Reports Medicine demonstrating how integrating bulk RNA-seq data with protein networks can uncover signatures underlying rejection in pediatric liver transplantation. (link)
+
+March 2022-Our DoD grant (Role: co-I, PIs: Lafyatis and Singh) looking at multi-omic signatures of scleroderma disease severity was funded.
+
+March 2022-Our Essential Regression manuscript was published in Patterns. (link)
+
+## 2021
+
+September 2021-A NIAID R01 we participated in (Role: co-I, PIs: Rinaldo and Mailliard) looking at COVID-19 vaccine responses in HIV individuals was funded.
+
+September 2021-We received a 5-year NHGRI U01 1U01HG012041-01 (Role: MPI, Other PIs: Singh, Sahni). Link on NIH Reporter 
+
+August 2021-We received a 5-year NIAID New Innovator DP2 Award 1DP2AI164325-01 (Role: PI). Link on NIH Reporter
+
+June 2021-An NIDDK dkNET New Investigator Pilot Program in Bioinformatics grant that we participated in has been funded (Role: co-I, PI: Joglekar).
+
+June 2021-We contributed to Mechanisms of impaired lung development and ciliation in Mannosidase-1-alpha-2 (Man1a2) mutants in Frontiers in Physiology
+
+April 2021-Jishnu gave a talk at the 2021 Cold Spring Harbor Systems Immunology Meeting
+
+April 2021-A Department of Defense Idea Development Award grant that we participated in has been funded (Role: co-I, PI: Lafyatis).
+
+March 2021-Jishnu gave a talk at the 2021 Cold Spring Harbor Networks Meeting
 
 ## 2020
 
-[**PRPS-ST: A protocol-agnostic self-training method for gene expression-based classification of blood cancers**](https://bloodcancerdiscov.aacrjournals.org/)
+October 2020-We published Mining for humoral correlates of HIV control and latent reservoir size in PLoS pathogens
 
-**Aixiang Jiang** , **Laura K. Hilton** , **Jeffrey Tang** , **Christopher K. Rushton** , **Bruno M. Grande**, David W. Scott, **Ryan D. Morin.**
-Blood Cancer Discovery (2020)
- 
-[**Evaluating the quantity, quality and size distribution of cell-free DNA by multiplex droplet digital PCR**](https://www.nature.com/articles/s41598-020-69432-x)
+September 2020-We contributed to Extracellular Matrix Injury of Kidney Allografts in Antibody-Mediated Rejection: A Proteomics Study, which was published in the Journal of the American Society of Nephrology
 
-**Miguel Alcaide**, **Matthew Cheung**, **Jack Hillman**, S. Rod Rassekh, Rebecca J. Deyell, Gerald Batist, Aly Karsan, Alexander W. Wyatt, Nathalie Johnson, David W. Scott & **Ryan D. Morin**. Scientific Reports 10, Article number: 12564 (2020).
+August 2020-We are now supported by a Collaborative Research Agreement with the University of Brussels Center for Research In Immunology (Role: PI)!
 
-[**Genetic and evolutionary patterns of treatment resistance in relapsed B-cell lymphoma**](https://pubmed.ncbi.nlm.nih.gov/32589730/)
+July 2020-We contributed to Glucosylation by the Legionella effector SetA promotes the nuclear localization of the transcription factor TFEB, which was published in Iscience
 
-**Christopher K Rushton**, **Sarah E Arthur**, **Miguel Alcaide**, **Matthew Cheung**, **Aixiang Jiang**, **Krysta M Coyle**, Kirstie L S Cleary, **Nicole Thomas**, **Laura K Hilton**, Neil Michaud, Scott Daigle, **Jordan Davidson**, **Kevin Bushell**, **Stephen Yu**, Ryan N Rys, Michael Jain, Lois Shepherd, Marco A Marra, John Kuruvilla, Michael Crump, Koren Mann, Sarit Assouline, Joseph M Connors, Christian Steidl, Mark S Cragg, David W Scott, Nathalie A Johnson, **Ryan D Morin**. Blood Adv (2020) 4 (13): 2886–2898.
+July 2020-We published Mapping functional humoral correlates of protection against malaria challenge following RTS, S/AS01 vaccination in Science Translational Medicine
 
-[**Coding and non-coding drivers of mantle cell lymphoma identified through exome and genome sequencing**](https://ashpublications.org/blood/article/doi/10.1182/blood.2019002385/452635/Coding-and-non-coding-drivers-of-mantle-cell)
+June 2020-We received a pilot Covid-19 grant from the UPMC-ITTC (Role: PI)!
 
-**Prasath Pararajalingam**, **Krysta M. Coyle**, **Sarah E. Arthur**, **Nicole Thomas**, **Miguel Alcaide**, Barbara Meissner, Merrill Boyle, **Bruno M. Grande**, Graham Slack, Andrew J. Mungall, Randy D. Gascoyne, Christian Steidl, Joseph Connors, Diego Villa, Marco A. Marra, Nathalie Johnson, David W. Scott, and **Ryan D. Morin**. Blood. 2020 Jul 30;136(5):572-584. doi: 10.1182/blood.2019002385.
+May 2020-We contributed to Co-immunization of DNA and Protein in the Same Anatomical Sites Induces Superior Protective Immune Responses against SHIV Challenge, which was published in Cell Reports
 
-[**DLBCL subclassification: divide and conquer?**](https://ashpublications.org/blood/article/135/20/1722/454958/DLBCL-subclassification-divide-and-conquer)
+March 2020-We contributed to Latency reversal agents modulate HIV antigen processing and presentation to CD8 T cells, which was published in PLoS pathogens
 
-**Ryan D. Morin** and David W. Scott. Blood (2020). May 14;135(20):1722-1724. doi: 10.1182/blood.2020005335.
+March 2020-We contributed to Epigenetic basis for monocyte dysfunction in patients with severe alcoholic hepatitis, which was published in the Journal of Hepatology
 
-## 2019
-[**The double-hit signature identifies double-hit diffuse large B-cell lymphoma with genetic events cryptic to FISH**](https://www.ncbi.nlm.nih.gov/pubmed/31527075)
+February 2020-We published Antibody Fc Glycosylation Discriminates Between Latent and Active Tuberculosis in The Journal of Infectious Diseases
 
-**Hilton LK, Tang J,** Ben-Neriah S, **Alcaide M, Jiang A, Grande BM, Rushton CK,** Boyle M, Meissner B, Scott DW, **Morin RD**. Blood. 2019 Oct 31;134(18):1528-1532. 
+January 2020-The Das Systems Immunology Lab is now supported by Center for Systems Immunology Startup Funds!
 
-[**Ultrasensitive Detection of Circulating Tumor DNA in Lymphoma via Targeted Hybridization Capture and Deep Sequencing of Barcoded Libraries**](https://link.springer.com/protocol/10.1007%2F978-1-4939-9151-8_20)
-
-**Miguel Alcaide**, **Christopher Rushton**, **Ryan D. Morin**. Methods Molecular Biology. 2019;1956:383-435.
-
-[**Genome-wide discovery of somatic coding and non-coding mutations in pediatric endemic and sporadic Burkitt lymphoma**](http://www.bloodjournal.org/content/133/12/1313)
-
-**Bruno M. Grande**\*, Daniela S. Gerhard\*, **Aixiang Jiang**, Nicholas B. Griner, Jeremy S. Abramson, Thomas B. Alexander, Hilary Allen, Leona W. Ayers, Jeffrey M. Bethony, Kishor Bhatia, Jay Bowen, Corey Casper, John Kim Choi, Luka Culibrk, Tanja M. Davidsen, Maureen A. Dyer, Julie M. Gastier-Foster, Patee Gesuwan, Timothy C. Greiner, Thomas G. Gross, Benjamin Hanf, Nancy Lee Harris, Yiwen He, John D. Irvin, Elaine S. Jaffe, Steven J.M. Jones, Patrick Kerchan, **Nicole Knoetze**, Fabio E. Leal, Tara M. Lichtenberg, Yussanne Ma, Jean Paul Martin, Marie-Reine Martin, Sam M. Mbulaiteye, Charles G. Mullighan, Andrew J. Mungall, Constance Namirembe, Karen Novik, Ariela Noy, Martin D. Ogwang, Abraham Omoding, Jackson Orem, Steven J. Reynolds, **Christopher K. Rushton**, John T. Sandlund, Roland Schmitz, Cynthia Taylor, Wyndham H. Wilson, George W. Wright, Eric Y. Zhao, Marco A. Marra, **Ryan D. Morin**\*, and Louis M. Staudt\*. Blood, 133(12):1313–1324, 2019.
-
-[**Editorial**](http://www.bloodjournal.org/content/133/12/1269)
-
-[**In the News**](https://scienceinthecity.com/2019/01/23/genome-wide-discovery-of-somatic-coding-and-non-coding-mutations-in-pediatric-endemic-and-sporadic-burkitt-lymphoma/)
-
-[**Terry Fox Research Highlight**](https://www.tfri.ca/updates/news/news-item/team-identifies-new-classification-system-for-burkitt-s-lymphoma-and-opens-door-for-more-precise-treatments)
-
-[**A Novel Multiplex droplet digital PCR Assay to Identify and Quantify KRAS Mutations in Clinical Specimens.**](https://jmd.amjpathol.org/article/S1525-1578(18)30114-4/fulltext)<br>
-**Alcaide M\***, **Cheung M\***, **Bushell K\***, **Arthur S**,  **Wong HL**, Karasinska J, Renouf D,  Schaeffer DF, McNamara S, Couetoux du Tertre M, Batist G, Kennecke HF, Karsan K and **Morin RD**. Journal of Molecular Diagnostics. J Mol Diagn. 2019 Mar;21(2):214-227.
-
-## 2018
-
-[**The Double-Hit Gene Expression Signature Defines a Clinically and Biologically Distinct Subgroup within GCB-DLBCL**](http://ascopubs.org/doi/abs/10.1200/jco.18.01583)<br>
-Ennishi D\*, **Jiang A**\*, Boyle M, Collinge B, **Grande BM**, Ben-Neriah S, **Rushton C**, **Tang J**, **Thomas N**, Slack GW, Farinha P, Takata K, Miyata-Takata T, Craig J, Mottok A, Meissner B, Saberi S, Bashashati A, Villa D, Savage KJ, Sehn LH, Kridel R, Mungall AJ, Marra MA, Shah SP, Steidl C, Connors JM, Gascoyne RD, **Morin RD**\*, and **Scott DW**\*. <br>
-Journal of Clinical Oncology. December 3, 2018. 
-
-[**Genome-wide discovery of somatic regulatory variants in diffuse large B-cell lymphoma.**](https://www.ncbi.nlm.nih.gov/pubmed/30275490)
-<br>
-**Arthur SE**\*, **Jiang A**\*, **Grande BM**\*, **Alcaide M**, Cojocaru R, **Rushton CK**, Mottok A, **Hilton LK**, Lat PK, Zhao EY, Culibrk L, Ennishi D, **Jessa S**, **Chong L**, **Thomas N**, **Pararajalingam P**, Meissner B, Boyle M, **Davidson J**, **Bushell KR**, Lai D, Farinha P, Slack GW, Morin GB, Shah S, Sen D, Jones SJM, Mungall AJ, Gascoyne RD, Audas TE, Unrau P, Marra MA, Connors JM, Steidl C, Scott DW, **Morin RD**.
-<br>
-Nat Commun. 2018 Oct 1;9(1):4001. doi: 10.1038/s41467-018-06354-3.
-
-[**Novel Multiplexing Strategies for Quantification of Rare Alleles Using ddPCR.**](https://www.ncbi.nlm.nih.gov/pubmed/29717449)
-<br>
-**Alcaide M**, **Morin RD**.
-<br>
-Methods Mol Biol. 2018;1768:275-301. doi: 10.1007/978-1-4939-7778-9\_16.
-
-[**The genomic landscape of two Burkitt lymphoma cases and derived cell lines: comparison between primary and relapse samples.**](https://www.ncbi.nlm.nih.gov/pubmed/29295643)
-<br>
-Wever CM, Geoffrion D, **Grande BM**, **Yu S**, **Alcaide M**, Lemaire M, Riazalhosseini Y, Hébert J, Gavino C, Vinh DC, Petrogiannis-Haliotis T, Dmitrienko S, Mann KK, **Morin RD**\*, Johnson NA\*.
-<br>
-Leuk Lymphoma. 2018 Sep;59(9):2159-2174. doi: 10.1080/10428194.2017.1413186. 
-
-
-## 2017
-
-[**Targeted Error-Suppressed Detection of Circulating Paternal DNA to Establish a Diagnosis of Gestational Trophoblastic Neoplasm**](http://ascopubs.org/doi/abs/10.1200/PO.17.00154)<br>
-Jean-Michel Lavoie, **Miguel Alcaide**, Rosemary A. Fisher, Michael J. Seckl, **Ryan Morin**, and Anna V. Tinker<br>
-JCO Precision Oncology 2017 :1, 1-6 
-
-[**Targeted error-suppressed quantification of circulating tumor DNA using semi-degenerate barcoded adapters and biotinylated baits.**](https://www.ncbi.nlm.nih.gov/pubmed/28874686)
-<br>
-**Alcaide M**, **Yu S**, **Davidson J**, **Albuquerque M**, **Bushell K**, **Fornika D**, **Arthur S**, **Grande BM**, McNamara S, Tertre MCD, Batist G, Huntsman DG, Cavallone L, Aguilar A, Basik M, Johnson NA, Deyell RJ, Rassekh SR, **Morin RD**.
-<br>
-Sci Rep. 2017 Sep 5;7(1):10574. doi: 10.1038/s41598-017-10269-2.
-
-[**Investigating the Genetic Causes of Sudden Unexpected Death in Children Through Targeted Next-Generation Sequencing Analysis.**](https://www.ncbi.nlm.nih.gov/pubmed/28807990)
-<br>
-Dewar LJ\*, **Alcaide M**\*, **Fornika D**, **D'Amato L**, Shafaatalab S, Stevens CM, Balachandra T, Phillips SM, Sanatani S, **Morin RD**\*, Tibbits GF\*.
-<br>
-Circ Cardiovasc Genet. 2017 Aug;10(4). pii: e001738. doi: 10.1161/CIRCGENETICS.116.001738.
-
-[**Kronos: a workflow assembler for genome analytics and informatics.**](https://www.ncbi.nlm.nih.gov/pubmed/28655203)
-<br>
-Taghiyar MJ, Rosner J, Grewal D, **Grande BM**, Aniba R, **Grewal J**, Boutros PC, **Morin RD**, Bashashati A, Shah SP.
-<br>
-Gigascience. 2017 Jul 1;6(7):1-10. doi: 10.1093/gigascience/gix042.
-
-[**Enhancing knowledge discovery from cancer genomics data with Galaxy.**](https://www.ncbi.nlm.nih.gov/pubmed/28327945)
-<br>
-**Albuquerque MA**, **Grande BM**, **Ritch EJ**, **Pararajalingam P**, **Jessa S**, Krzywinski M, **Grewal JK**, Shah SP, Boutros PC, **Morin RD**.
-<br>
-Gigascience. 2017 May 1;6(5):1-13. doi: 10.1093/gigascience/gix015.
-
-
-## 2016
-
-[**Multiplex Droplet Digital PCR Quantification of Recurrent Somatic Mutations in Diffuse Large B-Cell and Follicular Lymphoma.**](https://www.ncbi.nlm.nih.gov/pubmed/27440511)
-<br>
-**Alcaide M**, **Yu S**, **Bushell K**, **Fornika D**, Nielsen JS, Nelson BH, Mann KK, Assouline S, Johnson NA, **Morin RD**.
-<br>
-Clin Chem. 2016 Sep;62(9):1238-47. doi: 10.1373/clinchem.2016.255315. 
-
-[**Cell-free DNA (cfDNA): Clinical Significance and Utility in Cancer Shaped By Emerging Technologies.**](https://www.ncbi.nlm.nih.gov/pubmed/27422709)
-<br>
-Volik S, **Alcaide M**, **Morin RD**, Collins C.
-<br>
-Mol Cancer Res. 2016 Oct;14(10):898-908. 
-
-[**Phase 2 study of panobinostat with or without rituximab in relapsed diffuse large B-cell lymphoma.**](https://www.ncbi.nlm.nih.gov/pubmed/27166360)
-<br>
-Assouline SE, Nielsen TH, **Yu S**, **Alcaide M**, **Chong L**, MacDonald D, Tosikyan A, Kukreti V, Kezouh A, Petrogiannis-Haliotis T, **Albuquerque M**, **Fornika D**, **Alamouti S**, Froment R, Greenwood CM, Oros KK, Camglioglu E, Sharma A, Christodoulopoulos R, Rousseau C, Johnson N, Crump M, **Morin RD**\*, Mann KK\*.
-<br>
-Blood. 2016 Jul 14;128(2):185-94. doi: 10.1182/blood-2016-02-699520. 
-
-[**Genetic Landscapes of Relapsed and Refractory Diffuse Large B-Cell Lymphomas.**](https://www.ncbi.nlm.nih.gov/pubmed/26647218)
-<br>
-**Morin RD**, Assouline S, **Alcaide M**, **Mohajeri A**, **Johnston RL**, **Chong L**, **Grewal J**, **Yu S**, **Fornika D**, **Bushell K**, Nielsen TH, Petrogiannis-Haliotis T, Crump M, Tosikyan A, **Grande BM**, MacDonald D, Rousseau C, Bayat M, Sesques P, Froment R, **Albuquerque M**, Monczak Y, Oros KK, Greenwood C, Riazalhosseini Y, Arseneault M, Camlioglu E, Constantin A, Pan-Hammarstrom Q, Peng R, Mann KK, Johnson NA.
-<br>
-Clin Cancer Res. 2016 May 1;22(9):2290-300. doi: 10.1158/1078-0432.CCR-15-2123. 
-
-
-## 2015
-
-[**Genetic inactivation of TRAF3 in canine and human B-cell lymphoma.**](https://www.ncbi.nlm.nih.gov/pubmed/25468570)
-<br>
-**Bushell KR**, **Kim Y**, Chan FC, Ben-Neriah S, **Jenks A**, **Alcaide M**, **Fornika D**, **Grande BM**, **Arthur S**, Gascoyne RD, Steidl C, **Morin RD**.
-<br>
-Blood. 2015 Feb 5;125(6):999-1005. doi: 10.1182/blood-2014-10-602714. 
+January 2020-The lab is now open! We look forward to exciting science in the future!
