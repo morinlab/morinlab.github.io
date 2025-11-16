@@ -267,13 +267,10 @@
   position: MSc student
   github: https://github.com/HoumanLM
   bio: >
-    I'm thrilled to be a part of the MORIN Lab's bioinformatic team, where I get
-    to have some fun building functions for the GAMBLR package. My main gig
-    involves working on functions that make analyzing raw data a bit easier.
-    Lately, I've been diving into the world of pyGAMBL, working on an API system
-    to offer an interface for GAMBL results. It's a work in progress, but I'm
-    eager to contribute my part to making data analysis more user-friendly.
-    Grateful for the opportunity to learn and grow with such an amazing team! 
+    My research project involves an ongoing hunt for signal in the non-coding
+    genome by building machine learning model that identifies regulatory mutations
+    that change gene expression. I'm also a contributor on the GAMBL project,
+    advancing the GAMBLR package and the analysis stack behind our cancer-genomics work.
   photo: team/houman.jpg
 
 - name: Yusuke Naoi
