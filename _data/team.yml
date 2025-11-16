@@ -276,6 +276,16 @@
     Grateful for the opportunity to learn and grow with such an amazing team! 
   photo: team/houman.jpg
 
+- name: Yusuke Naoi
+  is_pi: False
+  is_current: False
+  position: Visiting graduate student
+  bio: >
+    I'm a PhD student in the laboratory of Dr. Daisuke Ennishi. My project
+    explores the interplay between gene expression and genome (copy number) instability in DLBCL.  
+    I came to the Morin lab to work with the GAMBL project and enhance my bioinformatics skills. 
+  photo: team/Yusuke.png
+
 - name: Giuliano Banco
   is_pi: False
   is_current: True
