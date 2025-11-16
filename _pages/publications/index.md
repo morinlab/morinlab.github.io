@@ -126,9 +126,7 @@ Taghiyar MJ, Rosner J, Grewal D, **Grande BM**, Aniba R, **Grewal J**, Boutros P
 *Clin Chem*. (2016)
 
 [**Cell-free DNA (cfDNA): Clinical Significance and Utility in Cancer Shaped By Emerging Technologies.**](https://www.ncbi.nlm.nih.gov/pubmed/27422709)
-<br>
 Volik S, **Alcaide M**, **Morin RD**, Collins C.
-<br>
 *Mol Cancer Res*. (2016)
 
 [**Phase 2 study of panobinostat with or without rituximab in relapsed diffuse large B-cell lymphoma.**](https://www.ncbi.nlm.nih.gov/pubmed/27166360)
