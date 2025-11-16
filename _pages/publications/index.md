@@ -55,8 +55,9 @@ BioRxiv (2021)
 
 ### 2020
 
-[**PRPS-ST: A protocol-agnostic self-training method for gene expression-based classification of blood cancers.**](https://bloodcancerdiscov.aacrjournals.org/) **Aixiang Jiang** , **Laura K. Hilton** , **Jeffrey Tang** , **Christopher K. Rushton** , **Bruno M. Grande**, David W. Scott, **Ryan D. Morin.**
-Blood Cancer Discovery (2020)
+[**PRPS-ST: A protocol-agnostic self-training method for gene expression-based classification of blood cancers.**](https://bloodcancerdiscov.aacrjournals.org/) 
+**Aixiang Jiang**, **Laura K. Hilton**, **Jeffrey Tang**, **Christopher K. Rushton**, **Bruno M. Grande**, David W. Scott, **Ryan D. Morin.**
+*Blood Cancer Discovery* (2020)
  
 [**Evaluating the quantity, quality and size distribution of cell-free DNA by multiplex droplet digital PCR.**](https://www.nature.com/articles/s41598-020-69432-x)
 **Miguel Alcaide**, **Matthew Cheung**, **Jack Hillman**, S. Rod Rassekh, Rebecca J. Deyell, Gerald Batist, Aly Karsan, Alexander W. Wyatt, Nathalie Johnson, David W. Scott & **Ryan D. Morin**. 
