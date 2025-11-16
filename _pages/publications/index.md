@@ -71,7 +71,8 @@ BioRxiv (2021)
 
 ### 2019
 
-[**The double-hit signature identifies double-hit diffuse large B-cell lymphoma with genetic events cryptic to FISH.**](https://www.ncbi.nlm.nih.gov/pubmed/31527075) **Hilton LK, Tang J,** Ben-Neriah S, **Alcaide M, Jiang A, Grande BM, Rushton CK,** Boyle M, Meissner B, Scott DW, **Morin RD**. Blood. 2019 Oct 31;134(18):1528-1532. 
+[**The double-hit signature identifies double-hit diffuse large B-cell lymphoma with genetic events cryptic to FISH.**](https://www.ncbi.nlm.nih.gov/pubmed/31527075) 
+**Hilton LK, Tang J,** Ben-Neriah S, **Alcaide M, Jiang A, Grande BM, Rushton CK,** Boyle M, Meissner B, Scott DW, **Morin RD**. *Blood*. (2019)
 
 [**Ultrasensitive Detection of Circulating Tumor DNA in Lymphoma via Targeted Hybridization Capture and Deep Sequencing of Barcoded Libraries.**](https://link.springer.com/protocol/10.1007%2F978-1-4939-9151-8_20) **Miguel Alcaide**, **Christopher Rushton**, **Ryan D. Morin**. Methods Molecular Biology. 2019;1956:383-435.
 
