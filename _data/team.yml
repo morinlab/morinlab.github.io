@@ -280,8 +280,9 @@
   is_pi: False
   is_current: True
   position: MSc student
+  github: https://github.com/gbanco4
   bio: > 
-    TODO
+    That's not me!
   photo: team/houman.jpg
 
 - name: Callum Brown
