@@ -13,9 +13,7 @@ Members of the Morin laboratory indicated in **boldface**
 
 [DLBCLone: A unified framework for neighbourhood-based genetic subtyping of lymphomas](https://www.medrxiv.org/content/10.1101/2025.09.18.25335809v1) **Luke Klossok**, **Kostiantyn Dreval**, **Manuela Cruz**, **Jasper CH Wong**, **Sierra Gillis**, Brett Collinge, Christian Steidl, David W Scott, **Laura K Hilton**, **Ryan D Morin**. MedRxiv. (2025)
 
-[LCR-modules: a collection of workflows for cancer genome analysis ](https://www.biorxiv.org/content/10.1101/2025.09.19.676923v1)
-
-**Kostiantyn Dreval**, Laura K. Hilton, **Bruno M. Grande**, **Krysta M. Coyle**, **Manuela Cruz**, **Sierra Gillis**, **Prasath Pararajalingam**, **Christopher K. Rushton**, 
+[LCR-modules: a collection of workflows for cancer genome analysis ](https://www.biorxiv.org/content/10.1101/2025.09.19.676923v1) **Kostiantyn Dreval**, Laura K. Hilton, **Bruno M. Grande**, **Krysta M. Coyle**, **Manuela Cruz**, **Sierra Gillis**, **Prasath Pararajalingam**, **Christopher K. Rushton**, 
 **Haya Shaalan**, **Nicole Thomas**, Helena Winata, **Jasper Wong**, **Jacky Yiu**, Christian Steidl, David W. Scott, Ryan D. Morin**. *BioRXiv*. (2025)
 
 [Audit of B-cell Cancer Genes](https://ashpublications.org/bloodadvances/article/9/8/2019/535267)
