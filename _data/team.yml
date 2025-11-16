@@ -49,7 +49,7 @@
 - name: Dr. Krysta Coyle
   is_pi: False
   is_current: True
-  position: Postdoctoral Fellow
+  position: Research Associate
   scholar: https://scholar.google.ca/citations?user=AeVci4cAAAAJ&hl=en
   github: https://github.com/kmcoyle
   orcid: http://orcid.org/0000-0002-1309-4873
@@ -84,7 +84,7 @@
 
 - name: Haya Shaalan
   is_pi: False
-  is_current: True
+  is_current: False
   position: MSc Student
   github: https://github.com/hayashaalan
   bio: >
@@ -172,7 +172,7 @@
 - name: Jasper Wong
   is_pi: False
   is_current: True
-  position: Bioinformatician
+  position: PhD student
   orcid:  https://orcid.org/0000-0002-8140-6517
   github: https://github.com/Jwong684
   bio: >
@@ -199,7 +199,7 @@
 
 - name: Dr. Vladimir Souza
   is_pi: False
-  is_current: True
+  is_current: False
   position: Computational Biologist
   github: https://github.com/vladimirsouza
   bio: >
@@ -247,7 +247,7 @@
 
 - name: Rachel LaFrance
   is_pi: False
-  is_current: True
+  is_current: False
   position: Undergraduate student
   github: https://github.com/rl258
   bio: >
@@ -264,7 +264,7 @@
 - name: Houman Layegh Mirhosseini
   is_pi: False
   is_current: True
-  position: Undergraduate student
+  position: MSc student
   github: https://github.com/HoumanLM
   bio: >
     I'm thrilled to be a part of the MORIN Lab's bioinformatic team, where I get
@@ -276,10 +276,18 @@
     Grateful for the opportunity to learn and grow with such an amazing team! 
   photo: team/houman.jpg
 
+- name: Giuliano Banco
+  is_pi: False
+  is_current: True
+  position: MSc student
+  bio: > 
+    TODO
+  photo: team/houman.jpg
+
 - name: Callum Brown
   is_pi: False
   is_current: True
-  position: Undergraduate student
+  position: MSc student
   github: https://github.com/callumcbrown
   bio: >
     I am a 4th year student in Molecular Biology and Biochemistry at SFU, and I
@@ -292,7 +300,7 @@
 
 - name: Manuela Cruz
   is_pi: False
-  is_current: True
+  is_current: False
   position: MSc student
   bio: >
     I perform various computational analyses to assist in the classification of driver genes within Non-Hodgkin’s Lymphoma.
@@ -369,8 +377,8 @@
 
 - name: Quratulain Qureshi
   is_pi: False
-  is_current: True
-  position: Research Technician!
+  is_current: False
+  position: MSc student
   bio: >
       I am a recent MSc. graduate, co-supervisored by Drs. Ryan Morin and Tim Audas.
       My research focuses on the impact of dysregulated RNA-binding proteins on the
