@@ -9,8 +9,17 @@ rank: 4
 
 Members of the Morin laboratory indicated in **boldface**
 
-## 2024
+## 2025
 
+[DLBCLone: A unified framework for neighbourhood-based genetic subtyping of lymphomas](https://www.medrxiv.org/content/10.1101/2025.09.18.25335809v1)
+
+**Luke Klossok**, **Kostiantyn Dreval**, **Manuela Cruz**, **Jasper CH Wong**, **Sierra Gillis**, Brett Collinge, Christian Steidl, David W Scott, **Laura K Hilton**, **Ryan D Morin**
+
+[Audit of B-cell Cancer Genes](https://ashpublications.org/bloodadvances/article/9/8/2019/535267)
+
+**Krysta M Coyle**, **Kostiantyn Dreval**, Daniel J Hodson, **Ryan D Morin**
+
+## 2024
 
 [Motive and opportunity: MYC rearrangements in high-grade B-cell lymphoma with MYC and BCL2 rearrangements (an LLMPP study)](https://ashpublications.org/blood/article/144/5/525/516008/Motive-and-opportunity-MYC-rearrangements-in-high)
 
