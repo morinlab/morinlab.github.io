@@ -58,7 +58,9 @@ BioRxiv (2021)
 [**PRPS-ST: A protocol-agnostic self-training method for gene expression-based classification of blood cancers.**](https://bloodcancerdiscov.aacrjournals.org/) **Aixiang Jiang** , **Laura K. Hilton** , **Jeffrey Tang** , **Christopher K. Rushton** , **Bruno M. Grande**, David W. Scott, **Ryan D. Morin.**
 Blood Cancer Discovery (2020)
  
-[**Evaluating the quantity, quality and size distribution of cell-free DNA by multiplex droplet digital PCR.**](https://www.nature.com/articles/s41598-020-69432-x) **Miguel Alcaide**, **Matthew Cheung**, **Jack Hillman**, S. Rod Rassekh, Rebecca J. Deyell, Gerald Batist, Aly Karsan, Alexander W. Wyatt, Nathalie Johnson, David W. Scott & **Ryan D. Morin**. Scientific Reports 10, Article number: 12564 (2020).
+[**Evaluating the quantity, quality and size distribution of cell-free DNA by multiplex droplet digital PCR.**](https://www.nature.com/articles/s41598-020-69432-x)
+**Miguel Alcaide**, **Matthew Cheung**, **Jack Hillman**, S. Rod Rassekh, Rebecca J. Deyell, Gerald Batist, Aly Karsan, Alexander W. Wyatt, Nathalie Johnson, David W. Scott & **Ryan D. Morin**. 
+*Scientific Reports* (2020)
 
 [**Genetic and evolutionary patterns of treatment resistance in relapsed B-cell lymphoma.**](https://pubmed.ncbi.nlm.nih.gov/32589730/) **Christopher K Rushton**, **Sarah E Arthur**, **Miguel Alcaide**, **Matthew Cheung**, **Aixiang Jiang**, **Krysta M Coyle**, Kirstie L S Cleary, **Nicole Thomas**, **Laura K Hilton**, Neil Michaud, Scott Daigle, **Jordan Davidson**, **Kevin Bushell**, **Stephen Yu**, Ryan N Rys, Michael Jain, Lois Shepherd, Marco A Marra, John Kuruvilla, Michael Crump, Koren Mann, Sarit Assouline, Joseph M Connors, Christian Steidl, Mark S Cragg, David W Scott, Nathalie A Johnson, **Ryan D Morin**. Blood Adv (2020) 4 (13): 2886–2898.
 
