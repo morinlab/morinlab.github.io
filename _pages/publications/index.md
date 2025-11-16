@@ -74,9 +74,9 @@ Blood Cancer Discovery (2020)
 
 [**Genome-wide discovery of somatic coding and non-coding mutations in pediatric endemic and sporadic Burkitt lymphoma.**](http://www.bloodjournal.org/content/133/12/1313) **Bruno M. Grande**\*, Daniela S. Gerhard\*, **Aixiang Jiang**, Nicholas B. Griner, Jeremy S. Abramson, Thomas B. Alexander, Hilary Allen, Leona W. Ayers, Jeffrey M. Bethony, Kishor Bhatia, Jay Bowen, Corey Casper, John Kim Choi, Luka Culibrk, Tanja M. Davidsen, Maureen A. Dyer, Julie M. Gastier-Foster, Patee Gesuwan, Timothy C. Greiner, Thomas G. Gross, Benjamin Hanf, Nancy Lee Harris, Yiwen He, John D. Irvin, Elaine S. Jaffe, Steven J.M. Jones, Patrick Kerchan, **Nicole Knoetze**, Fabio E. Leal, Tara M. Lichtenberg, Yussanne Ma, Jean Paul Martin, Marie-Reine Martin, Sam M. Mbulaiteye, Charles G. Mullighan, Andrew J. Mungall, Constance Namirembe, Karen Novik, Ariela Noy, Martin D. Ogwang, Abraham Omoding, Jackson Orem, Steven J. Reynolds, **Christopher K. Rushton**, John T. Sandlund, Roland Schmitz, Cynthia Taylor, Wyndham H. Wilson, George W. Wright, Eric Y. Zhao, Marco A. Marra, **Ryan D. Morin**\*, and Louis M. Staudt\*. Blood, 133(12):1313–1324, 2019.
 
-[**Editorial**](http://www.bloodjournal.org/content/133/12/1269)
+[*Editorial*](http://www.bloodjournal.org/content/133/12/1269)
 
-[**In the News**](https://scienceinthecity.com/2019/01/23/genome-wide-discovery-of-somatic-coding-and-non-coding-mutations-in-pediatric-endemic-and-sporadic-burkitt-lymphoma/)
+[*In the News*](https://scienceinthecity.com/2019/01/23/genome-wide-discovery-of-somatic-coding-and-non-coding-mutations-in-pediatric-endemic-and-sporadic-burkitt-lymphoma/)
 
 [**Terry Fox Research Highlight**](https://www.tfri.ca/updates/news/news-item/team-identifies-new-classification-system-for-burkitt-s-lymphoma-and-opens-door-for-more-precise-treatments)
 
@@ -89,23 +89,11 @@ Blood Cancer Discovery (2020)
 Ennishi D\*, **Jiang A**\*, Boyle M, Collinge B, **Grande BM**, Ben-Neriah S, **Rushton C**, **Tang J**, **Thomas N**, Slack GW, Farinha P, Takata K, Miyata-Takata T, Craig J, Mottok A, Meissner B, Saberi S, Bashashati A, Villa D, Savage KJ, Sehn LH, Kridel R, Mungall AJ, Marra MA, Shah SP, Steidl C, Connors JM, Gascoyne RD, **Morin RD**\*, and **Scott DW**\*. <br>
 Journal of Clinical Oncology. December 3, 2018. 
 
-[**Genome-wide discovery of somatic regulatory variants in diffuse large B-cell lymphoma.**](https://www.ncbi.nlm.nih.gov/pubmed/30275490)
-<br>
-**Arthur SE**\*, **Jiang A**\*, **Grande BM**\*, **Alcaide M**, Cojocaru R, **Rushton CK**, Mottok A, **Hilton LK**, Lat PK, Zhao EY, Culibrk L, Ennishi D, **Jessa S**, **Chong L**, **Thomas N**, **Pararajalingam P**, Meissner B, Boyle M, **Davidson J**, **Bushell KR**, Lai D, Farinha P, Slack GW, Morin GB, Shah S, Sen D, Jones SJM, Mungall AJ, Gascoyne RD, Audas TE, Unrau P, Marra MA, Connors JM, Steidl C, Scott DW, **Morin RD**.
-<br>
-Nat Commun. 2018 Oct 1;9(1):4001. doi: 10.1038/s41467-018-06354-3.
+[**Genome-wide discovery of somatic regulatory variants in diffuse large B-cell lymphoma.**](https://www.ncbi.nlm.nih.gov/pubmed/30275490) **Arthur SE**\*, **Jiang A**\*, **Grande BM**\*, **Alcaide M**, Cojocaru R, **Rushton CK**, Mottok A, **Hilton LK**, Lat PK, Zhao EY, Culibrk L, Ennishi D, **Jessa S**, **Chong L**, **Thomas N**, **Pararajalingam P**, Meissner B, Boyle M, **Davidson J**, **Bushell KR**, Lai D, Farinha P, Slack GW, Morin GB, Shah S, Sen D, Jones SJM, Mungall AJ, Gascoyne RD, Audas TE, Unrau P, Marra MA, Connors JM, Steidl C, Scott DW, **Morin RD**. *Nat Commun*. (2018)
 
-[**Novel Multiplexing Strategies for Quantification of Rare Alleles Using ddPCR.**](https://www.ncbi.nlm.nih.gov/pubmed/29717449)
-<br>
-**Alcaide M**, **Morin RD**.
-<br>
-Methods Mol Biol. 2018;1768:275-301. doi: 10.1007/978-1-4939-7778-9\_16.
+[**Novel Multiplexing Strategies for Quantification of Rare Alleles Using ddPCR.**](https://www.ncbi.nlm.nih.gov/pubmed/29717449) **Alcaide M**, **Morin RD**. Methods Mol Biol. (2018)
 
-[**The genomic landscape of two Burkitt lymphoma cases and derived cell lines: comparison between primary and relapse samples.**](https://www.ncbi.nlm.nih.gov/pubmed/29295643)
-<br>
-Wever CM, Geoffrion D, **Grande BM**, **Yu S**, **Alcaide M**, Lemaire M, Riazalhosseini Y, Hébert J, Gavino C, Vinh DC, Petrogiannis-Haliotis T, Dmitrienko S, Mann KK, **Morin RD**\*, Johnson NA\*.
-<br>
-Leuk Lymphoma. 2018 Sep;59(9):2159-2174. doi: 10.1080/10428194.2017.1413186. 
+[**The genomic landscape of two Burkitt lymphoma cases and derived cell lines: comparison between primary and relapse samples.**](https://www.ncbi.nlm.nih.gov/pubmed/29295643) Wever CM, Geoffrion D, **Grande BM**, **Yu S**, **Alcaide M**, Lemaire M, Riazalhosseini Y, Hébert J, Gavino C, Vinh DC, Petrogiannis-Haliotis T, Dmitrienko S, Mann KK, **Morin RD**\*, Johnson NA\*. Leuk Lymphoma. (2018)
 
 
 ## 2017
