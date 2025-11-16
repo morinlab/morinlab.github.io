@@ -11,65 +11,45 @@ Members of the Morin laboratory indicated in **boldface**
 
 ## 2025
 
-[DLBCLone: A unified framework for neighbourhood-based genetic subtyping of lymphomas](https://www.medrxiv.org/content/10.1101/2025.09.18.25335809v1) **Luke Klossok**, **Kostiantyn Dreval**, **Manuela Cruz**, **Jasper CH Wong**, **Sierra Gillis**, Brett Collinge, Christian Steidl, David W Scott, **Laura K Hilton**, **Ryan D Morin**. MedRxiv. (2025)
+[DLBCLone: A unified framework for neighbourhood-based genetic subtyping of lymphomas.](https://www.medrxiv.org/content/10.1101/2025.09.18.25335809v1) **Luke Klossok**, **Kostiantyn Dreval**, **Manuela Cruz**, **Jasper CH Wong**, **Sierra Gillis**, Brett Collinge, Christian Steidl, David W Scott, **Laura K Hilton**, **Ryan D Morin**. MedRxiv. (2025)
 
-[LCR-modules: a collection of workflows for cancer genome analysis ](https://www.biorxiv.org/content/10.1101/2025.09.19.676923v1) **Kostiantyn Dreval**, Laura K. Hilton, **Bruno M. Grande**, **Krysta M. Coyle**, **Manuela Cruz**, **Sierra Gillis**, **Prasath Pararajalingam**, **Christopher K. Rushton**, 
+[LCR-modules: a collection of workflows for cancer genome analysis.](https://www.biorxiv.org/content/10.1101/2025.09.19.676923v1) **Kostiantyn Dreval**, Laura K. Hilton, **Bruno M. Grande**, **Krysta M. Coyle**, **Manuela Cruz**, **Sierra Gillis**, **Prasath Pararajalingam**, **Christopher K. Rushton**, 
 **Haya Shaalan**, **Nicole Thomas**, Helena Winata, **Jasper Wong**, **Jacky Yiu**, Christian Steidl, David W. Scott, **Ryan D. Morin**. *BioRXiv*. (2025)
 
 [Audit of B-cell Cancer Genes](https://ashpublications.org/bloodadvances/article/9/8/2019/535267) **Krysta M Coyle**, **Kostiantyn Dreval**, Daniel J Hodson, **Ryan D Morin**. *Blood Advances*. (2025)
 
 ## 2024
 
-[Motive and opportunity: MYC rearrangements in high-grade B-cell lymphoma with MYC and BCL2 rearrangements (an LLMPP study)](https://ashpublications.org/blood/article/144/5/525/516008/Motive-and-opportunity-MYC-rearrangements-in-high) **Laura K Hilton**, Brett Collinge, Susana Ben-Neriah, Waleed Alduaij, **Haya Shaalan**, Andrew P Weng, **Manuela Cruz**, Graham W Slack, Pedro Farinha, Tomoko Miyata-Takata, 
+[Motive and opportunity: MYC rearrangements in high-grade B-cell lymphoma with MYC and BCL2 rearrangements (an LLMPP study).](https://ashpublications.org/blood/article/144/5/525/516008/Motive-and-opportunity-MYC-rearrangements-in-high) **Laura K Hilton**, Brett Collinge, Susana Ben-Neriah, Waleed Alduaij, **Haya Shaalan**, Andrew P Weng, **Manuela Cruz**, Graham W Slack, Pedro Farinha, Tomoko Miyata-Takata, 
 Merrill Boyle, Barbara Meissner, James R Cook, Sarah L Ondrejka, German Ott, Andreas Rosenwald, Elias Campo, Catalina Amador, Timothy C Greiner, Philipp W Raess, 
 Joo Y Song, Giorgio Inghirami, Elaine S Jaffe, Dennis D Weisenburger, Wing C Chan, Klaus Beiske, Kai Fu, Jan Delabie, Stefania Pittaluga, Javeed Iqbal, 
 George Wright, Laurie H Sehn, Kerry J Savage, Andrew J Mungall, Andrew L Feldman, Louis M Staudt, Christian Steidl, Lisa M Rimsza, **Ryan D Morin**, David W Scott. *Blood*. (2024)
 
 ## 2023
 
-[Genetic Subdivisions of Follicular Lymphoma Defined by Distinct Coding and non-coding Mutation Patterns](https://ashpublications.org/blood/article/doi/10.1182/blood.2022018719/495422/Genetic-Subdivisions-of-Follicular-Lymphoma)
+[Genetic Subdivisions of Follicular Lymphoma Defined by Distinct Coding and non-coding Mutation Patterns.](https://ashpublications.org/blood/article/doi/10.1182/blood.2022018719/495422/Genetic-Subdivisions-of-Follicular-Lymphoma) **Dreval K, Hilton LK, Cruz M, Shaalan H,** Ben-Neriah S, Boyle M, Collinge BJ, **Coyle KM**, Duns G, Farinha P, **Grande B**, Meissner B, **Pararajalingam P, Rushton CK,** Slack GW, Wong JCH, Mungall AJ, Marra MA, Connors JM, Steidl C, Scott DW, **Morin RD.** Blood (2023)
 
-**Dreval K, Hilton LK, Cruz M, Shaalan H,** Ben-Neriah S, Boyle M, Collinge BJ, **Coyle KM**, Duns G, Farinha P, **Grande B**, Meissner B, **Pararajalingam P, Rushton CK,** Slack GW, Wong JCH, Mungall AJ, Marra MA, Connors JM, Steidl C, Scott DW, **Morin RD.** Blood (2023)
+[Emerging roles for heterogeneous ribonuclear proteins in normal and malignant B cells.](https://pubmed.ncbi.nlm.nih.gov/36745874/) **Qureshi QUA**, Audas TE, **Morin RD, Coyle KM.** *Biochem Cell Biol*. (2023)
 
-[Emerging roles for heterogeneous ribonuclear proteins in normal and malignant B cells.](https://pubmed.ncbi.nlm.nih.gov/36745874/)
-
-**Qureshi QUA**, Audas TE, **Morin RD, Coyle KM.** *Biochem Cell Biol*. (2023)
-
-[Genetic subgroups inform on pathobiology in adult and pediatric Burkitt lymphoma](https://ashpublications.org/blood/article/141/8/904/486739/Genetic-subgroups-inform-on-pathobiology-in-adult)
-
-**Thomas N, Dreval K,** Gerhard DS, Hilton LK, Abramson JS, Ambinder RF, Barta S, Bartlett NL, Bethony J, Bhatia K, Bowen J, Bryan AC, Cesarman E, Casper C, Chadburn A, **Cruz M**, Dittmer DP, Dyer MA, Farinha P, Gastier-Foster JM, Gerrie AS, **Grande BM**, Greiner T, Griner NB, Gross TG, Harris NL, Irvin JD, Jaffe ES, Henry D, Huppi R, Leal FE, Lee MS, Martin JP, Martin MR, Mbulaiteye SM, Mitsuyasu R, Morris V, Mullighan CG, Mungall AJ, Mungall K, Mutyaba I, Nokta M, Namirembe C, Noy A, Ogwang MD, Omoding A, Orem J, Ott G, Petrello H, Pittaluga S, Phelan JD, Ramos JC, Ratner L, Reynolds SJ, Rubinstein PG, Sissolak G, Slack G, **Soudi S**, Swerdlow SH, Traverse-Glehen A, Wilson WH, **Wong J**, Yarchoan R, ZenKlusen JC, Marra MA, Staudt LM, Scott DW, **Morin RD.** Blood (2023)
+[Genetic subgroups inform on pathobiology in adult and pediatric Burkitt lymphoma.](https://ashpublications.org/blood/article/141/8/904/486739/Genetic-subgroups-inform-on-pathobiology-in-adult) **Thomas N, Dreval K,** Gerhard DS, Hilton LK, Abramson JS, Ambinder RF, Barta S, Bartlett NL, Bethony J, Bhatia K, Bowen J, Bryan AC, Cesarman E, Casper C, Chadburn A, **Cruz M**, Dittmer DP, Dyer MA, Farinha P, Gastier-Foster JM, Gerrie AS, **Grande BM**, Greiner T, Griner NB, Gross TG, Harris NL, Irvin JD, Jaffe ES, Henry D, Huppi R, Leal FE, Lee MS, Martin JP, Martin MR, Mbulaiteye SM, Mitsuyasu R, Morris V, Mullighan CG, Mungall AJ, Mungall K, Mutyaba I, Nokta M, Namirembe C, Noy A, Ogwang MD, Omoding A, Orem J, Ott G, Petrello H, Pittaluga S, Phelan JD, Ramos JC, Ratner L, Reynolds SJ, Rubinstein PG, Sissolak G, Slack G, **Soudi S**, Swerdlow SH, Traverse-Glehen A, Wilson WH, **Wong J**, Yarchoan R, ZenKlusen JC, Marra MA, Staudt LM, Scott DW, **Morin RD.** Blood (2023)
 
 ## 2022
 
-[Concerning data inconsistencies in Burkitt lymphoma genome study](https://ashpublications.org/blood/article/doi/10.1182/blood.2022016505/486935/Concerning-data-inconsistencies-in-Burkitt)
+[Concerning data inconsistencies in Burkitt lymphoma genome study.](https://ashpublications.org/blood/article/doi/10.1182/blood.2022016505/486935/Concerning-data-inconsistencies-in-Burkitt) **Christopher K Rushton, Kostiantyn Dreval, Ryan D Morin**. Blood (Epub 2022)
 
-**Christopher K Rushton, Kostiantyn Dreval, Ryan D Morin**. Blood (Epub 2022)
+[Minimal Information for Reporting a Genomics Experiment.](https://ashpublications.org/blood/article/140/24/2549/486782/Minimal-information-for-reporting-a-genomics) **Kostiantyn Dreval**, Paul Boutros, **Ryan D. Morin**. Blood (2022)
 
-[Minimal Information for Reporting a Genomics Experiment](https://ashpublications.org/blood/article/140/24/2549/486782/Minimal-information-for-reporting-a-genomics)
-
-**Kostiantyn Dreval**, Paul Boutros, **Ryan D. Morin**. Blood (2022)
-
-[Shared and distinct genetic features in human and canine B-cell lymphomas](https://www.biorxiv.org/content/10.1101/2021.10.14.464277v1)
-
-**Krysta M Coyle**, **Tiana Hillman**, **Matthew Cheung**,  **Bruno M. Grande**, **Kevin R. Bushell**, **Sarah E. Arthur**, **Miguel Alcaide**, **Nicole Thomas**, **Kostiantyn Dreval**, **Stephanie Wong**, **Krishanna Campbell**,  **Ryan D. Morin**. Blood Advances (2022)
+[Shared and distinct genetic features in human and canine B-cell lymphomas.](https://www.biorxiv.org/content/10.1101/2021.10.14.464277v1) **Krysta M Coyle**, **Tiana Hillman**, **Matthew Cheung**,  **Bruno M. Grande**, **Kevin R. Bushell**, **Sarah E. Arthur**, **Miguel Alcaide**, **Nicole Thomas**, **Kostiantyn Dreval**, **Stephanie Wong**, **Krishanna Campbell**,  **Ryan D. Morin**. Blood Advances (2022)
 
 ## 2021 
 
-[Prognostic significance of FCGR2B expression for the response of DLBCL patients to rituximab or obinutuzumab treatment](https://ashpublications.org/bloodadvances/article/5/15/2945/476457/Prognostic-significance-of-FCGR2B-expression-for)
+[Prognostic significance of FCGR2B expression for the response of DLBCL patients to rituximab or obinutuzumab treatment.](https://ashpublications.org/bloodadvances/article/5/15/2945/476457/Prognostic-significance-of-FCGR2B-expression-for) Malgorzata Nowicka, **Laura K. Hilton**,  Margaret Ashton-Key, Chantal E. Hargreaves, Chern Lee, Russell Foxall, Matthew J. Carter, Stephen A. Beers, Kathleen N. Potter, Christopher R. Bolen, Christian Klein, Andrea Knapp, Farheen Mir, Matthew Rose-Zerilli, Cathy Burton, Wolfram Klapper, David W. Scott, Laurie H. Sehn, Umberto Vitolo, Maurizio Martelli, Marek Trneny, Christopher K. Rushton, Graham W. Slack, Pedro Farinha, Jonathan C. Strefford, Mikkel Z. Oestergaard, **Ryan D. Morin**, Mark S. Cragg. Blood Advances (2021)
 
-Malgorzata Nowicka, **Laura K. Hilton**,  Margaret Ashton-Key, Chantal E. Hargreaves, Chern Lee, Russell Foxall, Matthew J. Carter, Stephen A. Beers, Kathleen N. Potter, Christopher R. Bolen, Christian Klein, Andrea Knapp, Farheen Mir, Matthew Rose-Zerilli, Cathy Burton, Wolfram Klapper, David W. Scott, Laurie H. Sehn, Umberto Vitolo, Maurizio Martelli, Marek Trneny, Christopher K. Rushton, Graham W. Slack, Pedro Farinha, Jonathan C. Strefford, Mikkel Z. Oestergaard, **Ryan D. Morin**, Mark S. Cragg. Blood Advances (2021)
+[Molecular profiling in diffuse large B-cell lymphoma: why so many types of subtypes?](https://onlinelibrary.wiley.com/doi/10.1111/bjh.17811) **Ryan D. Morin**, **Sarah E. Arthur** and Daniel Hodson. Br J Haem (2021)
 
-[Molecular profiling in diffuse large B-cell lymphoma: why so many types of subtypes?](https://onlinelibrary.wiley.com/doi/10.1111/bjh.17811)
+[Treating lymphoma is now a bit EZ-er.](https://ashpublications.org/bloodadvances/article/5/8/2256/475823/Treating-lymphoma-is-now-a-bit-EZ-er) **Ryan D. Morin**, **Sarah E. Arthur** and Sarit Assouline. Blood Advances (2021)
 
-**Ryan D. Morin**, **Sarah E. Arthur** and Daniel Hodson. Br J Haem (2021)
-
-[Treating lymphoma is now a bit EZ-er](https://ashpublications.org/bloodadvances/article/5/8/2256/475823/Treating-lymphoma-is-now-a-bit-EZ-er)
-
-**Ryan D. Morin**, **Sarah E. Arthur** and Sarit Assouline. Blood Advances (2021)
-
-[Non-coding NFKBIZ 3′ UTR mutations promote cell growth and resistance to targeted therapies in diffuse large B-cell lymphoma](https://www.biorxiv.org/content/10.1101/2021.05.22.445261v1)
-
-**Sarah E Arthur**, Jie Gao, Shannon Healy, **Christopher K Rushton**, **Nicole Thomas**, **Laura K Hilton**, **Kostiantyn Dreval**, **Jeffrey Tang**, **Miguel Alcaide**, Razvan Cojocaru, Anja Mottok, Adele Telenius, Peter Unrau, Wyndham H Wilson, Louis M Staudt, David W Scott, Daniel J Hodson, Christian Steidl,  **Ryan D Morin**
+[Non-coding NFKBIZ 3′ UTR mutations promote cell growth and resistance to targeted therapies in diffuse large B-cell lymphoma.](https://www.biorxiv.org/content/10.1101/2021.05.22.445261v1) **Sarah E Arthur**, Jie Gao, Shannon Healy, **Christopher K Rushton**, **Nicole Thomas**, **Laura K Hilton**, **Kostiantyn Dreval**, **Jeffrey Tang**, **Miguel Alcaide**, Razvan Cojocaru, Anja Mottok, Adele Telenius, Peter Unrau, Wyndham H Wilson, Louis M Staudt, David W Scott, Daniel J Hodson, Christian Steidl,  **Ryan D Morin**
 BioRxiv (2021)
 
 
