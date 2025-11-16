@@ -302,12 +302,12 @@
   position: MSc student
   github: https://github.com/callumcbrown
   bio: >
-    I am a 4th year student in Molecular Biology and Biochemistry at SFU, and I
-    have been a member of the Morin Lab team for 8 months. Most of my work has
-    been focused on cloning DNA constructs that we use to study mutations in RNA
-    binding proteins, as well as assisting other members of the wet lab with
-    their research. I plan to continue my research in the Morin Lab by beginning
-    grad school later this year.
+    I've been a member of the Morin Lab team for over 2 years. My work involves both
+    bioinformatics and wet lab approaches, integrating multi-omics data with
+    CRISPR-Cas9 edited cell line models to investigate mutations identified in lymphoma
+    patients. My current research focuses on a mutation in the RNA binding protein hnRNPH1.
+    Over the next year I plan to transfer into the PhD program and expand the scope of my research to include other lymphoma-associated mutations.
+
   photo: team/callum.png
 
 - name: Manuela Cruz
