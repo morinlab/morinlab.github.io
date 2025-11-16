@@ -9,6 +9,16 @@ rank: 4
 
 Members of the Morin laboratory indicated in **boldface**
 
+## 2024
+
+
+[Motive and opportunity: MYC rearrangements in high-grade B-cell lymphoma with MYC and BCL2 rearrangements (an LLMPP study)](https://ashpublications.org/blood/article/144/5/525/516008/Motive-and-opportunity-MYC-rearrangements-in-high)
+
+**Laura K Hilton**, Brett Collinge, Susana Ben-Neriah, Waleed Alduaij, **Haya Shaalan**, Andrew P Weng, **Manuela Cruz**, Graham W Slack, Pedro Farinha, Tomoko Miyata-Takata, 
+Merrill Boyle, Barbara Meissner, James R Cook, Sarah L Ondrejka, German Ott, Andreas Rosenwald, Elias Campo, Catalina Amador, Timothy C Greiner, Philipp W Raess, 
+Joo Y Song, Giorgio Inghirami, Elaine S Jaffe, Dennis D Weisenburger, Wing C Chan, Klaus Beiske, Kai Fu, Jan Delabie, Stefania Pittaluga, Javeed Iqbal, 
+George Wright, Laurie H Sehn, Kerry J Savage, Andrew J Mungall, Andrew L Feldman, Louis M Staudt, Christian Steidl, Lisa M Rimsza, **Ryan D Morin**, David W Scott
+
 ## 2023
 
 [Genetic Subdivisions of Follicular Lymphoma Defined by Distinct Coding and non-coding Mutation Patterns](https://ashpublications.org/blood/article/doi/10.1182/blood.2022018719/495422/Genetic-Subdivisions-of-Follicular-Lymphoma)
