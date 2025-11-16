@@ -13,11 +13,16 @@ Members of the Morin laboratory indicated in **boldface**
 
 [DLBCLone: A unified framework for neighbourhood-based genetic subtyping of lymphomas](https://www.medrxiv.org/content/10.1101/2025.09.18.25335809v1)
 
-**Luke Klossok**, **Kostiantyn Dreval**, **Manuela Cruz**, **Jasper CH Wong**, **Sierra Gillis**, Brett Collinge, Christian Steidl, David W Scott, **Laura K Hilton**, **Ryan D Morin**
+**Luke Klossok**, **Kostiantyn Dreval**, **Manuela Cruz**, **Jasper CH Wong**, **Sierra Gillis**, Brett Collinge, Christian Steidl, David W Scott, **Laura K Hilton**, **Ryan D Morin**. MedRxiv. (2025)
+
+[LCR-modules: a collection of workflows for cancer genome analysis ](https://www.biorxiv.org/content/10.1101/2025.09.19.676923v1)
+
+**Kostiantyn Dreval**, Laura K. Hilton, **Bruno M. Grande**, **Krysta M. Coyle**, **Manuela Cruz**, **Sierra Gillis**, **Prasath Pararajalingam**, **Christopher K. Rushton**, 
+**Haya Shaalan**, **Nicole Thomas**, Helena Winata, **Jasper Wong**, **Jacky Yiu**, Christian Steidl, David W. Scott, Ryan D. Morin**. *BioRXiv*. (2025)
 
 [Audit of B-cell Cancer Genes](https://ashpublications.org/bloodadvances/article/9/8/2019/535267)
 
-**Krysta M Coyle**, **Kostiantyn Dreval**, Daniel J Hodson, **Ryan D Morin**
+**Krysta M Coyle**, **Kostiantyn Dreval**, Daniel J Hodson, **Ryan D Morin**. *Blood Advances*. (2025)
 
 ## 2024
 
@@ -26,7 +31,7 @@ Members of the Morin laboratory indicated in **boldface**
 **Laura K Hilton**, Brett Collinge, Susana Ben-Neriah, Waleed Alduaij, **Haya Shaalan**, Andrew P Weng, **Manuela Cruz**, Graham W Slack, Pedro Farinha, Tomoko Miyata-Takata, 
 Merrill Boyle, Barbara Meissner, James R Cook, Sarah L Ondrejka, German Ott, Andreas Rosenwald, Elias Campo, Catalina Amador, Timothy C Greiner, Philipp W Raess, 
 Joo Y Song, Giorgio Inghirami, Elaine S Jaffe, Dennis D Weisenburger, Wing C Chan, Klaus Beiske, Kai Fu, Jan Delabie, Stefania Pittaluga, Javeed Iqbal, 
-George Wright, Laurie H Sehn, Kerry J Savage, Andrew J Mungall, Andrew L Feldman, Louis M Staudt, Christian Steidl, Lisa M Rimsza, **Ryan D Morin**, David W Scott
+George Wright, Laurie H Sehn, Kerry J Savage, Andrew J Mungall, Andrew L Feldman, Louis M Staudt, Christian Steidl, Lisa M Rimsza, **Ryan D Morin**, David W Scott. *Blood*. (2024)
 
 ## 2023
 
@@ -36,7 +41,7 @@ George Wright, Laurie H Sehn, Kerry J Savage, Andrew J Mungall, Andrew L Feldman
 
 [Emerging roles for heterogeneous ribonuclear proteins in normal and malignant B cells.](https://pubmed.ncbi.nlm.nih.gov/36745874/)
 
-**Qureshi QUA**, Audas TE, **Morin RD, Coyle KM.** Biochem Cell Biol. (2023)
+**Qureshi QUA**, Audas TE, **Morin RD, Coyle KM.** *Biochem Cell Biol*. (2023)
 
 [Genetic subgroups inform on pathobiology in adult and pediatric Burkitt lymphoma](https://ashpublications.org/blood/article/141/8/904/486739/Genetic-subgroups-inform-on-pathobiology-in-adult)
 
