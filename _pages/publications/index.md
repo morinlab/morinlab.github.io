@@ -28,7 +28,8 @@ George Wright, Laurie H Sehn, Kerry J Savage, Andrew J Mungall, Andrew L Feldman
 
 ### 2023
 
-[Genetic Subdivisions of Follicular Lymphoma Defined by Distinct Coding and non-coding Mutation Patterns.](https://ashpublications.org/blood/article/doi/10.1182/blood.2022018719/495422/Genetic-Subdivisions-of-Follicular-Lymphoma) **Dreval K, Hilton LK, Cruz M, Shaalan H,** Ben-Neriah S, Boyle M, Collinge BJ, **Coyle KM**, Duns G, Farinha P, **Grande B**, Meissner B, **Pararajalingam P, Rushton CK,** Slack GW, Wong JCH, Mungall AJ, Marra MA, Connors JM, Steidl C, Scott DW, **Morin RD.** Blood (2023)
+[Genetic Subdivisions of Follicular Lymphoma Defined by Distinct Coding and non-coding Mutation Patterns.](https://ashpublications.org/blood/article/doi/10.1182/blood.2022018719/495422/Genetic-Subdivisions-of-Follicular-Lymphoma) 
+**Dreval K, Hilton LK, Cruz M, Shaalan H,** Ben-Neriah S, Boyle M, Collinge BJ, **Coyle KM**, Duns G, Farinha P, **Grande B**, Meissner B, **Pararajalingam P, Rushton CK,** Slack GW, Wong JCH, Mungall AJ, Marra MA, Connors JM, Steidl C, Scott DW, **Morin RD.** Blood (2023)
 
 [Emerging roles for heterogeneous ribonuclear proteins in normal and malignant B cells.](https://pubmed.ncbi.nlm.nih.gov/36745874/) **Qureshi QUA**, Audas TE, **Morin RD, Coyle KM.** *Biochem Cell Biol*. (2023)
 
@@ -36,7 +37,7 @@ George Wright, Laurie H Sehn, Kerry J Savage, Andrew J Mungall, Andrew L Feldman
 
 ### 2022
 
-[Concerning data inconsistencies in Burkitt lymphoma genome study.](https://ashpublications.org/blood/article/doi/10.1182/blood.2022016505/486935/Concerning-data-inconsistencies-in-Burkitt) **Christopher K Rushton, Kostiantyn Dreval, Ryan D Morin**. Blood (Epub 2022)
+[Concerning data inconsistencies in Burkitt lymphoma genome study.](https://ashpublications.org/blood/article/doi/10.1182/blood.2022016505/486935/Concerning-data-inconsistencies-in-Burkitt) **Christopher K Rushton, Kostiantyn Dreval, Ryan D Morin**. *Blood* (2022)
 
 [Minimal Information for Reporting a Genomics Experiment.](https://ashpublications.org/blood/article/140/24/2549/486782/Minimal-information-for-reporting-a-genomics) **Kostiantyn Dreval**, Paul Boutros, **Ryan D. Morin**. Blood (2022)
 
@@ -66,7 +67,8 @@ BioRxiv (2021)
 
 [**Genetic and evolutionary patterns of treatment resistance in relapsed B-cell lymphoma.**](https://pubmed.ncbi.nlm.nih.gov/32589730/) **Christopher K Rushton**, **Sarah E Arthur**, **Miguel Alcaide**, **Matthew Cheung**, **Aixiang Jiang**, **Krysta M Coyle**, Kirstie L S Cleary, **Nicole Thomas**, **Laura K Hilton**, Neil Michaud, Scott Daigle, **Jordan Davidson**, **Kevin Bushell**, **Stephen Yu**, Ryan N Rys, Michael Jain, Lois Shepherd, Marco A Marra, John Kuruvilla, Michael Crump, Koren Mann, Sarit Assouline, Joseph M Connors, Christian Steidl, Mark S Cragg, David W Scott, Nathalie A Johnson, **Ryan D Morin**. Blood Adv (2020) 4 (13): 2886–2898.
 
-[**Coding and non-coding drivers of mantle cell lymphoma identified through exome and genome sequencing.**](https://ashpublications.org/blood/article/doi/10.1182/blood.2019002385/452635/Coding-and-non-coding-drivers-of-mantle-cell) **Prasath Pararajalingam**, **Krysta M. Coyle**, **Sarah E. Arthur**, **Nicole Thomas**, **Miguel Alcaide**, Barbara Meissner, Merrill Boyle, **Bruno M. Grande**, Graham Slack, Andrew J. Mungall, Randy D. Gascoyne, Christian Steidl, Joseph Connors, Diego Villa, Marco A. Marra, Nathalie Johnson, David W. Scott, and **Ryan D. Morin**. Blood. 2020 Jul 30;136(5):572-584. doi: 10.1182/blood.2019002385.
+[**Coding and non-coding drivers of mantle cell lymphoma identified through exome and genome sequencing.**](https://ashpublications.org/blood/article/doi/10.1182/blood.2019002385/452635/Coding-and-non-coding-drivers-of-mantle-cell) **Prasath Pararajalingam**, **Krysta M. Coyle**, **Sarah E. Arthur**, **Nicole Thomas**, **Miguel Alcaide**, Barbara Meissner, Merrill Boyle, **Bruno M. Grande**, Graham Slack, Andrew J. Mungall, Randy D. Gascoyne, Christian Steidl, Joseph Connors, Diego Villa, Marco A. Marra, Nathalie Johnson, David W. Scott, and **Ryan D. Morin**. 
+*Blood*. (2020)
 
 [**DLBCL subclassification: divide and conquer?**](https://ashpublications.org/blood/article/135/20/1722/454958/DLBCL-subclassification-divide-and-conquer) **Ryan D. Morin** and David W. Scott. Blood (2020). May 14;135(20):1722-1724. doi: 10.1182/blood.2020005335.
 
