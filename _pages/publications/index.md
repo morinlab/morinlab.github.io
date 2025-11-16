@@ -85,9 +85,8 @@ Blood Cancer Discovery (2020)
 
 ## 2018
 
-[**The Double-Hit Gene Expression Signature Defines a Clinically and Biologically Distinct Subgroup within GCB-DLBCL**](http://ascopubs.org/doi/abs/10.1200/jco.18.01583)<br>
-Ennishi D\*, **Jiang A**\*, Boyle M, Collinge B, **Grande BM**, Ben-Neriah S, **Rushton C**, **Tang J**, **Thomas N**, Slack GW, Farinha P, Takata K, Miyata-Takata T, Craig J, Mottok A, Meissner B, Saberi S, Bashashati A, Villa D, Savage KJ, Sehn LH, Kridel R, Mungall AJ, Marra MA, Shah SP, Steidl C, Connors JM, Gascoyne RD, **Morin RD**\*, and **Scott DW**\*. <br>
-Journal of Clinical Oncology. December 3, 2018. 
+[**The Double-Hit Gene Expression Signature Defines a Clinically and Biologically Distinct Subgroup within GCB-DLBCL**](http://ascopubs.org/doi/abs/10.1200/jco.18.01583) Ennishi D\*, **Jiang A**\*, 
+Boyle M, Collinge B, **Grande BM**, Ben-Neriah S, **Rushton C**, **Tang J**, **Thomas N**, Slack GW, Farinha P, Takata K, Miyata-Takata T, Craig J, Mottok A, Meissner B, Saberi S, Bashashati A, Villa D, Savage KJ, Sehn LH, Kridel R, Mungall AJ, Marra MA, Shah SP, Steidl C, Connors JM, Gascoyne RD, **Morin RD**\*, and **Scott DW**\*. *Journal of Clinical Oncology*. (2018).
 
 [**Genome-wide discovery of somatic regulatory variants in diffuse large B-cell lymphoma.**](https://www.ncbi.nlm.nih.gov/pubmed/30275490) **Arthur SE**\*, **Jiang A**\*, **Grande BM**\*, **Alcaide M**, Cojocaru R, **Rushton CK**, Mottok A, **Hilton LK**, Lat PK, Zhao EY, Culibrk L, Ennishi D, **Jessa S**, **Chong L**, **Thomas N**, **Pararajalingam P**, Meissner B, Boyle M, **Davidson J**, **Bushell KR**, Lai D, Farinha P, Slack GW, Morin GB, Shah S, Sen D, Jones SJM, Mungall AJ, Gascoyne RD, Audas TE, Unrau P, Marra MA, Connors JM, Steidl C, Scott DW, **Morin RD**. *Nat Commun*. (2018)
 
@@ -98,41 +97,31 @@ Journal of Clinical Oncology. December 3, 2018.
 
 ## 2017
 
-[**Targeted Error-Suppressed Detection of Circulating Paternal DNA to Establish a Diagnosis of Gestational Trophoblastic Neoplasm**](http://ascopubs.org/doi/abs/10.1200/PO.17.00154)<br>
-Jean-Michel Lavoie, **Miguel Alcaide**, Rosemary A. Fisher, Michael J. Seckl, **Ryan Morin**, and Anna V. Tinker<br>
-JCO Precision Oncology 2017 :1, 1-6 
+[**Targeted Error-Suppressed Detection of Circulating Paternal DNA to Establish a Diagnosis of Gestational Trophoblastic Neoplasm**](http://ascopubs.org/doi/abs/10.1200/PO.17.00154)
+Jean-Michel Lavoie, **Miguel Alcaide**, Rosemary A. Fisher, Michael J. Seckl, **Ryan Morin**, and Anna V. Tinker
+*JCO Precision Oncology* (2017)
 
 [**Targeted error-suppressed quantification of circulating tumor DNA using semi-degenerate barcoded adapters and biotinylated baits.**](https://www.ncbi.nlm.nih.gov/pubmed/28874686)
-<br>
 **Alcaide M**, **Yu S**, **Davidson J**, **Albuquerque M**, **Bushell K**, **Fornika D**, **Arthur S**, **Grande BM**, McNamara S, Tertre MCD, Batist G, Huntsman DG, Cavallone L, Aguilar A, Basik M, Johnson NA, Deyell RJ, Rassekh SR, **Morin RD**.
-<br>
-Sci Rep. 2017 Sep 5;7(1):10574. doi: 10.1038/s41598-017-10269-2.
+Sci Rep. 2017
 
 [**Investigating the Genetic Causes of Sudden Unexpected Death in Children Through Targeted Next-Generation Sequencing Analysis.**](https://www.ncbi.nlm.nih.gov/pubmed/28807990)
-<br>
 Dewar LJ\*, **Alcaide M**\*, **Fornika D**, **D'Amato L**, Shafaatalab S, Stevens CM, Balachandra T, Phillips SM, Sanatani S, **Morin RD**\*, Tibbits GF\*.
-<br>
 Circ Cardiovasc Genet. 2017 Aug;10(4). pii: e001738. doi: 10.1161/CIRCGENETICS.116.001738.
 
 [**Kronos: a workflow assembler for genome analytics and informatics.**](https://www.ncbi.nlm.nih.gov/pubmed/28655203)
-<br>
 Taghiyar MJ, Rosner J, Grewal D, **Grande BM**, Aniba R, **Grewal J**, Boutros PC, **Morin RD**, Bashashati A, Shah SP.
-<br>
 Gigascience. 2017 Jul 1;6(7):1-10. doi: 10.1093/gigascience/gix042.
 
 [**Enhancing knowledge discovery from cancer genomics data with Galaxy.**](https://www.ncbi.nlm.nih.gov/pubmed/28327945)
-<br>
 **Albuquerque MA**, **Grande BM**, **Ritch EJ**, **Pararajalingam P**, **Jessa S**, Krzywinski M, **Grewal JK**, Shah SP, Boutros PC, **Morin RD**.
-<br>
 Gigascience. 2017 May 1;6(5):1-13. doi: 10.1093/gigascience/gix015.
 
 
 ## 2016
 
 [**Multiplex Droplet Digital PCR Quantification of Recurrent Somatic Mutations in Diffuse Large B-Cell and Follicular Lymphoma.**](https://www.ncbi.nlm.nih.gov/pubmed/27440511)
-<br>
 **Alcaide M**, **Yu S**, **Bushell K**, **Fornika D**, Nielsen JS, Nelson BH, Mann KK, Assouline S, Johnson NA, **Morin RD**.
-<br>
 Clin Chem. 2016 Sep;62(9):1238-47. doi: 10.1373/clinchem.2016.255315. 
 
 [**Cell-free DNA (cfDNA): Clinical Significance and Utility in Cancer Shaped By Emerging Technologies.**](https://www.ncbi.nlm.nih.gov/pubmed/27422709)
