@@ -16,7 +16,7 @@ rank: 3
 
 **A Modular Suite of Snakemake-based workflows for analysis of cancer genome data** 
 
-[LCR-modules](https://lcr-modules.readthedocs.io/en/latest/)
+[LCR-modules](https://github.com/LCR-BCCRC/lcr-modules)
 
 **Binary classification of cancer samples from gene expression data**
 
