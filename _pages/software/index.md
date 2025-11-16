@@ -10,6 +10,10 @@ rank: 3
     <img class="float-right" width="50%" src="{{ 'projects/wordcloud.png' | prepend: site.images_dir | prepend: site.baseurl }}" />
 </div>
 
+**A collection of R packages to facilitate analysis of data from the GAMBL project**
+
+[GAMBLR](https://github.com/morinlab/gamblr)
+
 **A Modular Suite of Snakemake-based workflows for analysis of cancer genome data** 
 
 [LCR-modules](https://lcr-modules.readthedocs.io/en/latest/)
