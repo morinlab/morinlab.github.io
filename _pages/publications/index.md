@@ -80,8 +80,7 @@ Blood Cancer Discovery (2020)
 
 [**Terry Fox Research Highlight**](https://www.tfri.ca/updates/news/news-item/team-identifies-new-classification-system-for-burkitt-s-lymphoma-and-opens-door-for-more-precise-treatments)
 
-[**A Novel Multiplex droplet digital PCR Assay to Identify and Quantify KRAS Mutations in Clinical Specimens.**](https://jmd.amjpathol.org/article/S1525-1578(18)30114-4/fulltext)
-**Alcaide M\***, **Cheung M\***, **Bushell K\***, **Arthur S**,  **Wong HL**, Karasinska J, Renouf D,  Schaeffer DF, McNamara S, Couetoux du Tertre M, Batist G, Kennecke HF, 
+[**A Novel Multiplex droplet digital PCR Assay to Identify and Quantify KRAS Mutations in Clinical Specimens.**](https://jmd.amjpathol.org/article/S1525-1578(18)30114-4/fulltext) **Alcaide M\***, **Cheung M\***, **Bushell K\***, **Arthur S**,  **Wong HL**, Karasinska J, Renouf D,  Schaeffer DF, McNamara S, Couetoux du Tertre M, Batist G, Kennecke HF, 
 Karsan K and **Morin RD**. 
 *Journal of Molecular Diagnostics. J Mol Diagn*. (2019)
 
