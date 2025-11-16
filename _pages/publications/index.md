@@ -16,15 +16,11 @@ Members of the Morin laboratory indicated in **boldface**
 [LCR-modules: a collection of workflows for cancer genome analysis ](https://www.biorxiv.org/content/10.1101/2025.09.19.676923v1) **Kostiantyn Dreval**, Laura K. Hilton, **Bruno M. Grande**, **Krysta M. Coyle**, **Manuela Cruz**, **Sierra Gillis**, **Prasath Pararajalingam**, **Christopher K. Rushton**, 
 **Haya Shaalan**, **Nicole Thomas**, Helena Winata, **Jasper Wong**, **Jacky Yiu**, Christian Steidl, David W. Scott, Ryan D. Morin**. *BioRXiv*. (2025)
 
-[Audit of B-cell Cancer Genes](https://ashpublications.org/bloodadvances/article/9/8/2019/535267)
-
-**Krysta M Coyle**, **Kostiantyn Dreval**, Daniel J Hodson, **Ryan D Morin**. *Blood Advances*. (2025)
+[Audit of B-cell Cancer Genes](https://ashpublications.org/bloodadvances/article/9/8/2019/535267) **Krysta M Coyle**, **Kostiantyn Dreval**, Daniel J Hodson, **Ryan D Morin**. *Blood Advances*. (2025)
 
 ## 2024
 
-[Motive and opportunity: MYC rearrangements in high-grade B-cell lymphoma with MYC and BCL2 rearrangements (an LLMPP study)](https://ashpublications.org/blood/article/144/5/525/516008/Motive-and-opportunity-MYC-rearrangements-in-high)
-
-**Laura K Hilton**, Brett Collinge, Susana Ben-Neriah, Waleed Alduaij, **Haya Shaalan**, Andrew P Weng, **Manuela Cruz**, Graham W Slack, Pedro Farinha, Tomoko Miyata-Takata, 
+[Motive and opportunity: MYC rearrangements in high-grade B-cell lymphoma with MYC and BCL2 rearrangements (an LLMPP study)](https://ashpublications.org/blood/article/144/5/525/516008/Motive-and-opportunity-MYC-rearrangements-in-high) **Laura K Hilton**, Brett Collinge, Susana Ben-Neriah, Waleed Alduaij, **Haya Shaalan**, Andrew P Weng, **Manuela Cruz**, Graham W Slack, Pedro Farinha, Tomoko Miyata-Takata, 
 Merrill Boyle, Barbara Meissner, James R Cook, Sarah L Ondrejka, German Ott, Andreas Rosenwald, Elias Campo, Catalina Amador, Timothy C Greiner, Philipp W Raess, 
 Joo Y Song, Giorgio Inghirami, Elaine S Jaffe, Dennis D Weisenburger, Wing C Chan, Klaus Beiske, Kai Fu, Jan Delabie, Stefania Pittaluga, Javeed Iqbal, 
 George Wright, Laurie H Sehn, Kerry J Savage, Andrew J Mungall, Andrew L Feldman, Louis M Staudt, Christian Steidl, Lisa M Rimsza, **Ryan D Morin**, David W Scott. *Blood*. (2024)
