@@ -280,10 +280,14 @@
   is_pi: False
   is_current: False
   position: Visiting graduate student
+  github: https://github.com/yusukenaoi
   bio: >
-    I'm a PhD student in the laboratory of Dr. Daisuke Ennishi. My project
-    explores the interplay between gene expression and genome (copy number) instability in DLBCL.  
-    I came to the Morin lab to work with the GAMBL project and enhance my bioinformatics skills. 
+    I'm a PhD student at Okayama University (Japan), working in the laboratory of 
+    Dr. Daisuke Ennishi. My project explores the interplay between gene
+    expression and genome (copy number) instability in DLBCL.  
+    I joined the Morin lab for a semester to work with the valuable data in the
+    GAMBL project and enhance my bioinformatics skills. I also contribute to 
+    code in the GAMBLR R packages. 
   photo: team/Yusuke.png
 
 - name: Giuliano Banco
