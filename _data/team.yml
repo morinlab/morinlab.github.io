@@ -159,6 +159,7 @@
 - name: Luke Klossok
   is_pi: False
   is_current: True
+  github: https://github.com/Atlantis-Real
   position: Undergraduate Researcher
   bio: >
     I focus on developing tools for the Genome Analysis of Mature B-cell Lyphoma package. My work has centred on developing DLBCLone, a machine-learning based classifier that assigns molecular subtypes of DLBCL from a diverse array of sequencing types.
