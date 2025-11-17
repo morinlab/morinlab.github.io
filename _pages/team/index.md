@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Team
+title: "The Morin Lab"
 permalink: /team/
 toggle: on
 rank: 2
