@@ -156,6 +156,15 @@
     I started my journey into bioinformatics and genomics in the Morin lab and here I am again after completing my PhD. It's just that fun!
   photo: team/Elie_crop.jpeg
 
+- name: Luke Klossok
+  is_pi: False
+  is_current: True
+  position: Undergraduate Researcher
+  bio: >
+    I focus on developing tools for the Genome Analysis of Mature B-cell Lyphoma package. My work has centred on developing DLBCLone, a machine-learning based classifier that assigns molecular subtypes of DLBCL from a diverse array of sequencing types.
+    I'm interested in pipeline development and visualization tools that support studies in lymphoma.
+  photo: team/Klossok.jpg
+
 - name: Carl-Adam Mattsson
   is_pi: False
   is_current: False
