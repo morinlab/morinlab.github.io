@@ -23,9 +23,23 @@
     mutations with regulatory potential from genome-wide data sets and
     error-corrected sequencing strategies and algorithms to identify mutations and copy number from circulating
     tumour DNA (<a href="https://www.ncbi.nlm.nih.gov/pubmed/28874686">ctDNA</a>). Dr. Morin is a Scholar of the <a href="https://www.msfhr.org/">Michael Smith Foundation for Health Research</a>.
-
   photo: team/MorinRyan.JPG
 
+- name: Dr. Kostiantyn Dreval
+  is_pi: False
+  is_current: True
+  github: https://github.com/kdreval
+  position: Research Associate
+  bio: >
+    I obtained PhD in 2014, following which I received comprehensive training at FDA-NCTR and University of New Mexico.
+    During my career, I conducted original research in the area of cancer epigenomics and transcriptomics. While
+    performing basic research in cancer biology and epigenetics, I became passionate about scientific discoveries
+    in the area of bioinformatics and computational biology. In the Morin lab, I am applying a variety of bioinformatics
+    tools to uncover genomic features of Burkitt lymphoma, a form of aggressive B-cell non-Hodgkin lymphoma. Specifically,
+    my research is focused on comparing the genomic and molecular characteristics of adult and pediatric BL, Epstein-Barr
+    virus (EBV) positive and negative BL, as well as endemic and sporadic cases, which will allow better diagnosis approaches
+    and will ultimately facilitate development of more effective treatment strategies.
+  photo: team/kdreval.jpg
 
 - name: Dr. Laura Hilton
   is_pi: False
@@ -67,94 +81,6 @@
     enjoy communicating science to kids and adults alike.
   photo: team/kcoyle.jpg
 
-
-- name: Prasath Pararajalingam
-  is_pi: False
-  is_current: False
-  position: PhD Student
-  github: https://github.com/ppararaj
-  bio: >
-    My PhD project has me exploring the molecular aetiology of mantle
-    cell lymphoma (MCL) using a combination of data types and a variety of bioinformatic
-    techniques. My analysis of the mutational landscape of MCL has
-    revealed an enrichment of mutations in splicing factors and RNA-binding proteins. Currently,
-    I am investigating deregulation of non-coding elements using a large dataset of WGS and RNA-seq MCL tumours.
-  photo: team/ppararajalingam.jpg
-
-
-- name: Haya Shaalan
-  is_pi: False
-  is_current: False
-  position: MSc Student
-  github: https://github.com/hayashaalan
-  bio: >
-    I work on implementing and improving pipelines for our Genomic Analysis of Mature B-cell Lymphoma project.
-    I’ve taken an interest in incorporating promethION long-read sequencing data into this project to perform various
-    analyses exploring copy number variation, simple somatic mutations, and structural variation patterns. PromethION
-    sequencing has certain advantages over short read sequencing in that it provides a more comprehensive view on
-    structural variant discovery and informs on methylation state. We hope that the addition of promethION data will
-    consolidate previous findings, as well as provide further insight to the genomic landscape of this disease.
-  photo: team/haya.jpg
-
-
-- name: Nicole Thomas
-  is_pi: False
-  is_current: False
-  position: PhD Student
-  github: https://github.com/nthomas11
-  bio: >
-    I completed my Honours Project in the Morin lab, during which I investigated the role of putative enhancers in
-    Mantle Cell Lymphoma. My current role in the lab involves the mining of RNA-Seq data to identify unique gene
-    expression patterns present in Non-Hodgkin’s Lymphoma. Currently, I am using RNA-Seq data, in conjunction with
-    Whole Genome Sequencing data, to identify mutations and single nucleotide polymorphisms that affect the alternative
-    splicing of RNA transcripts.
-  photo: team/nthomas.jpg
-
-- name: Dr. Kostiantyn Dreval
-  is_pi: False
-  is_current: True
-  github: https://github.com/kdreval
-  position: Research Associate
-  bio: >
-    I obtained PhD in 2014, following which I received comprehensive training at FDA-NCTR and University of New Mexico.
-    During my career, I conducted original research in the area of cancer epigenomics and transcriptomics. While
-    performing basic research in cancer biology and epigenetics, I became passionate about scientific discoveries
-    in the area of bioinformatics and computational biology. In the Morin lab, I am applying a variety of bioinformatics
-    tools to uncover genomic features of Burkitt lymphoma, a form of aggressive B-cell non-Hodgkin lymphoma. Specifically,
-    my research is focused on comparing the genomic and molecular characteristics of adult and pediatric BL, Epstein-Barr
-    virus (EBV) positive and negative BL, as well as endemic and sporadic cases, which will allow better diagnosis approaches
-    and will ultimately facilitate development of more effective treatment strategies.
-  photo: team/kdreval.jpg
-
-- name: Kristena Daley
-  is_pi: False
-  is_current: False
-  position: MSc Student
-  bio: >
-    I received my BSc in biology in 2019, with my honours thesis focusing on the assembly and annotation of the Atlantic
-    deep-sea scallop transcriptome in order to determine differential gene expression in populations across Atlantic Canada.
-    In the Morin lab, I am currently researching circulating tumor DNA (ctDNA) in various Non-Hodgkin’s lymphoma subtypes
-    to identify mutation- and progression-based trends. My project aims to infer genome-wide methylation of Burkitt lymphoma (BL)
-    and diffuse large B-cell lymphoma (DLBCL), as well as explore the benefits and drawbacks of common ctDNA
-    quantification strategies for both BL and DLBCL patients across Canada.
-  photo: team/kristena.jpg
-
-- name: Ryan Riley
-  is_pi: False
-  is_current: False
-  position: Bioinformatician
-  bio: >
-    I obtained my MSc in the Gregg Morin lab co-supervised by Ryan Morin and now I am working in Ryan Morin's lab co-supervised by Gregg Morin.
-    My lab "claim to fame" is that my hair length exceeds the combined hair length of all the other Ryans and Morins. My interests include long walks on windy beaches at sunset, mantle cell lymphoma and proteomics.
-  photo: team/IMG_1330.jpg
-
-- name: Dr. Elie Ritch
-  is_pi: False
-  is_current: False
-  position: Bioinformatician
-  bio: >
-    I started my journey into bioinformatics and genomics in the Morin lab and here I am again after completing my PhD. It's just that fun!
-  photo: team/Elie_crop.jpeg
 
 - name: Luke Klossok
   is_pi: False
@@ -254,6 +180,8 @@
     using RNA-Seq data with an underlying vision to expand into a multi-omic
     approach for a more comprehensive understanding of the biological landscape.
   photo: team/malki.jpeg
+
+
 
 - name: Rachel LaFrance
   is_pi: False
@@ -384,6 +312,20 @@
     heterogeneity in DLBCL.
   photo: team/jtang.jpg
 
+- name: Prasath Pararajalingam
+  is_pi: False
+  is_current: False
+  position: PhD Student
+  github: https://github.com/ppararaj
+  bio: >
+    My PhD project has me exploring the molecular aetiology of mantle
+    cell lymphoma (MCL) using a combination of data types and a variety of bioinformatic
+    techniques. My analysis of the mutational landscape of MCL has
+    revealed an enrichment of mutations in splicing factors and RNA-binding proteins. Currently,
+    I am investigating deregulation of non-coding elements using a large dataset of WGS and RNA-seq MCL tumours.
+  photo: team/ppararajalingam.jpg
+
+
 - name: Leah Tooman
   is_pi: False
   is_current: False
@@ -411,6 +353,70 @@
       I have a special interest in science communication, aiming to make research
       more accessible and engaging for a wider audience.
   photo: team/annie.jpg
+
+
+
+
+- name: Haya Shaalan
+  is_pi: False
+  is_current: False
+  position: MSc Student
+  github: https://github.com/hayashaalan
+  bio: >
+    I work on implementing and improving pipelines for our Genomic Analysis of Mature B-cell Lymphoma project.
+    I’ve taken an interest in incorporating promethION long-read sequencing data into this project to perform various
+    analyses exploring copy number variation, simple somatic mutations, and structural variation patterns. PromethION
+    sequencing has certain advantages over short read sequencing in that it provides a more comprehensive view on
+    structural variant discovery and informs on methylation state. We hope that the addition of promethION data will
+    consolidate previous findings, as well as provide further insight to the genomic landscape of this disease.
+  photo: team/haya.jpg
+
+
+- name: Nicole Thomas
+  is_pi: False
+  is_current: False
+  position: PhD Student
+  github: https://github.com/nthomas11
+  bio: >
+    I completed my Honours Project in the Morin lab, during which I investigated the role of putative enhancers in
+    Mantle Cell Lymphoma. My current role in the lab involves the mining of RNA-Seq data to identify unique gene
+    expression patterns present in Non-Hodgkin’s Lymphoma. Currently, I am using RNA-Seq data, in conjunction with
+    Whole Genome Sequencing data, to identify mutations and single nucleotide polymorphisms that affect the alternative
+    splicing of RNA transcripts.
+  photo: team/nthomas.jpg
+
+
+
+- name: Kristena Daley
+  is_pi: False
+  is_current: False
+  position: MSc Student
+  bio: >
+    I received my BSc in biology in 2019, with my honours thesis focusing on the assembly and annotation of the Atlantic
+    deep-sea scallop transcriptome in order to determine differential gene expression in populations across Atlantic Canada.
+    In the Morin lab, I am currently researching circulating tumor DNA (ctDNA) in various Non-Hodgkin’s lymphoma subtypes
+    to identify mutation- and progression-based trends. My project aims to infer genome-wide methylation of Burkitt lymphoma (BL)
+    and diffuse large B-cell lymphoma (DLBCL), as well as explore the benefits and drawbacks of common ctDNA
+    quantification strategies for both BL and DLBCL patients across Canada.
+  photo: team/kristena.jpg
+
+- name: Ryan Riley
+  is_pi: False
+  is_current: False
+  position: Bioinformatician
+  bio: >
+    I obtained my MSc in the Gregg Morin lab co-supervised by Ryan Morin and now I am working in Ryan Morin's lab co-supervised by Gregg Morin.
+    My lab "claim to fame" is that my hair length exceeds the combined hair length of all the other Ryans and Morins. My interests include long walks on windy beaches at sunset, mantle cell lymphoma and proteomics.
+  photo: team/IMG_1330.jpg
+
+- name: Dr. Elie Ritch
+  is_pi: False
+  is_current: False
+  position: Bioinformatician
+  bio: >
+    I started my journey into bioinformatics and genomics in the Morin lab and here I am again after completing my PhD. It's just that fun!
+  photo: team/Elie_crop.jpeg
+
 
 - name: Dr. Bruno Grande
   is_pi: False
