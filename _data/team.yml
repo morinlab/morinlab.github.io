@@ -82,28 +82,6 @@
   photo: team/kcoyle.jpg
 
 
-- name: Luke Klossok
-  is_pi: False
-  is_current: True
-  github: https://github.com/Atlantis-Real
-  position: Undergraduate Researcher
-  bio: >
-    I focus on developing tools for the Genome Analysis of Mature B-cell Lyphoma package. My work has centred on developing DLBCLone, a machine-learning based classifier that assigns molecular subtypes of DLBCL from a diverse array of sequencing types.
-    I'm interested in pipeline development and visualization tools that support studies in lymphoma.
-  photo: team/Klossok.jpg
-
-- name: Carl-Adam Mattsson
-  is_pi: False
-  is_current: False
-  github: https://github.com/mattssca
-  position: Research Programmer
-  bio: >
-    With an MSc. in Bioinformatics (UBC) I work as a Research Programmer, focusing on improving existing bioinformatic and
-    computational infrastructure as well as the development and design of novel bioinformatic pipelines connected to Mature
-    B-cell Lymphoma research facilitated by the Morin lab. With a background in cytogenetics and medical genetics, I am very
-    interested in linking rare genetic variation to cancer predisposition and allowing for improved and effective treatment
-    decisions in cancer.
-  photo: team/adam.jpg
 
 - name: Jasper Wong
   is_pi: False
@@ -165,6 +143,29 @@
     DLBCL patients who have relapsed.
   photo: team/kurt.JPG
 
+- name: Giuliano Banco
+  is_pi: False
+  is_current: True
+  position: MSc student
+  github: https://github.com/gbanco4
+  bio: > 
+    I'm Giuliano.
+  photo: team/Banco.jpg
+
+- name: Callum Brown
+  is_pi: False
+  is_current: True
+  position: MSc student
+  github: https://github.com/callumcbrown
+  bio: >
+    I've been a member of the Morin Lab team for over 2 years. My work involves both
+    bioinformatics and wet lab approaches, integrating multi-omics data with
+    CRISPR-Cas9 edited cell line models to investigate mutations identified in lymphoma
+    patients. My current research focuses on a mutation in the RNA binding protein hnRNPH1.
+    Over the next year I plan to transfer into the PhD program and expand the scope of my research to include other lymphoma-associated mutations.
+
+  photo: team/callum.png
+
 - name: Malki Wijesinghe
   is_pi: False
   is_current: True
@@ -225,28 +226,6 @@
     code in the GAMBLR R packages. 
   photo: team/Yusuke.png
 
-- name: Giuliano Banco
-  is_pi: False
-  is_current: True
-  position: MSc student
-  github: https://github.com/gbanco4
-  bio: > 
-    I'm Giuliano.
-  photo: team/Banco.jpg
-
-- name: Callum Brown
-  is_pi: False
-  is_current: True
-  position: MSc student
-  github: https://github.com/callumcbrown
-  bio: >
-    I've been a member of the Morin Lab team for over 2 years. My work involves both
-    bioinformatics and wet lab approaches, integrating multi-omics data with
-    CRISPR-Cas9 edited cell line models to investigate mutations identified in lymphoma
-    patients. My current research focuses on a mutation in the RNA binding protein hnRNPH1.
-    Over the next year I plan to transfer into the PhD program and expand the scope of my research to include other lymphoma-associated mutations.
-
-  photo: team/callum.png
 
 - name: Manuela Cruz
   is_pi: False
@@ -324,6 +303,29 @@
     revealed an enrichment of mutations in splicing factors and RNA-binding proteins. Currently,
     I am investigating deregulation of non-coding elements using a large dataset of WGS and RNA-seq MCL tumours.
   photo: team/ppararajalingam.jpg
+
+- name: Luke Klossok
+  is_pi: False
+  is_current: True
+  github: https://github.com/Atlantis-Real
+  position: Undergraduate Researcher
+  bio: >
+    I focus on developing tools for the Genome Analysis of Mature B-cell Lyphoma package. My work has centred on developing DLBCLone, a machine-learning based classifier that assigns molecular subtypes of DLBCL from a diverse array of sequencing types.
+    I'm interested in pipeline development and visualization tools that support studies in lymphoma.
+  photo: team/Klossok.jpg
+
+- name: Carl-Adam Mattsson
+  is_pi: False
+  is_current: False
+  github: https://github.com/mattssca
+  position: Research Programmer
+  bio: >
+    With an MSc. in Bioinformatics (UBC) I work as a Research Programmer, focusing on improving existing bioinformatic and
+    computational infrastructure as well as the development and design of novel bioinformatic pipelines connected to Mature
+    B-cell Lymphoma research facilitated by the Morin lab. With a background in cytogenetics and medical genetics, I am very
+    interested in linking rare genetic variation to cancer predisposition and allowing for improved and effective treatment
+    decisions in cancer.
+  photo: team/adam.jpg
 
 
 - name: Leah Tooman
